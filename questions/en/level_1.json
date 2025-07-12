@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsW7i9SFXpDWlWgYHShzTpdEBivWb",
+  "object": "chat.completion",
+  "created": 1752332894,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"questions\":[\n{\"question\":\"What is the capital of France?\",\"options\":[\"Paris\",\"London\",\"Berlin\",\"Madrid\"],\"correctIndex\":0},\n{\"question\":\"Which planet is known as the Red Planet?\",\"options\":[\"Mars\",\"Jupiter\",\"Venus\",\"Saturn\"],\"correctIndex\":0},\n{\"question\":\"Who painted the Mona Lisa?\",\"options\":[\"Leonardo da Vinci\",\"Michelangelo\",\"Vincent van Gogh\",\"Pablo Picasso\"],\"correctIndex\":0},\n{\"question\":\"What is the largest mammal in the world?\",\"options\":[\"Blue Whale\",\"Elephant\",\"Giraffe\",\"Hippopotamus\"],\"correctIndex\":0},\n{\"question\":\"Which country is famous for the Great Wall?\",\"options\":[\"China\",\"India\",\"Brazil\",\"Russia\"],\"correctIndex\":0},\n{\"question\":\"What is the main ingredient in guacamole?\",\"options\":[\"Avocado\",\"Tomato\",\"Onion\",\"Lemon\"],\"correctIndex\":0},\n{\"question\":\"Who wrote Romeo and Juliet?\",\"options\":[\"William Shakespeare\",\"Charles Dickens\",\"Jane Austen\",\"Mark Twain\"],\"correctIndex\":0},\n{\"question\":\"Which is the longest river in the world?\",\"options\":[\"Nile\",\"Amazon\",\"Mississippi\",\"Yangtze\"],\"correctIndex\":1},\n{\"question\":\"What is the chemical symbol for gold?\",\"options\":[\"Au\",\"Ag\",\"Fe\",\"Cu\"],\"correctIndex\":0},\n{\"question\":\"In which city would you find the Eiffel Tower?\",\"options\":[\"Paris\",\"London\",\"Rome\",\"New York\"],\"correctIndex\":0}\n]}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 97,
+    "completion_tokens": 320,
+    "total_tokens": 417,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
