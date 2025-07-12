@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsX5hwJbbdx3EFcykFnDT0qDe8r7l",
+  "object": "chat.completion",
+  "created": 1752336613,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"questions\": [\n    {\n      \"question\": \"In which year did World War I end?\",\n      \"options\": [\"1918\", \"1939\", \"1945\", \"1914\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Who is the author of the book '1984'?\",\n      \"options\": [\"Aldous Huxley\", \"George Orwell\", \"Ray Bradbury\", \"J.R.R. Tolkien\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"What is the largest continent by land area?\",\n      \"options\": [\"Africa\", \"South America\", \"Asia\", \"Europe\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Which famous scientist discovered the theory of general relativity?\",\n      \"options\": [\"Isaac Newton\", \"Galileo Galilei\", \"Albert Einstein\", \"Stephen Hawking\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Who is the lead vocalist of the band 'U2'?\",\n      \"options\": [\"Bono\", \"The Edge\", \"Adam Clayton\", \"Larry Mullen Jr.\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"What is the currency of Japan?\",\n      \"options\": [\"Won\", \"Yuan\", \"Yen\", \"Dollar\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Which famous artist is known for painting the 'Starry Night'?\",\n      \"options\": [\"Pablo Picasso\", \"Vincent van Gogh\", \"Leonardo da Vinci\", \"Claude Monet\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"What is the largest river in the world?\",\n      \"options\": [\"Amazon River\", \"Nile River\", \"Yangtze River\", \"Mississippi River\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Who is the Greek god of the sea?\",\n      \"options\": [\"Hades\", \"Zeus\", \"Poseidon\", \"Apollo\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Which planet is known as the 'Morning Star'?\",\n      \"options\": [\"Mars\", \"Venus\", \"Mercury\", \"Jupiter\"],\n      \"correctIndex\": 1\n    }\n  ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3329,
+    "completion_tokens": 506,
+    "total_tokens": 3835,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
