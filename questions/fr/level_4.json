@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsVKL3N5mEeNSNEsnT8951VQGAB28",
+  "object": "chat.completion",
+  "created": 1752329833,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"questions\": [\n    {\n      \"question\": \"Quel est l'océan le plus grand du monde?\",\n      \"options\": [\"Océan Atlantique\", \"Océan Indien\", \"Océan Arctique\", \"Océan Pacifique\"],\n      \"correctIndex\": 3\n    },\n    {\n      \"question\": \"Qui a peint la Joconde?\",\n      \"options\": [\"Vincent van Gogh\", \"Leonardo da Vinci\", \"Pablo Picasso\", \"Claude Monet\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Quelle est la capitale de la France?\",\n      \"options\": [\"Madrid\", \"Berlin\", \"Paris\", \"Londres\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Quel est l'animal terrestre le plus rapide?\",\n      \"options\": [\"Le guépard\", \"Le lion\", \"Le léopard\", \"La gazelle\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Qui a écrit 'Le Petit Prince'?\",\n      \"options\": [\"Victor Hugo\", \"Albert Camus\", \"Antoine de Saint-Exupéry\", \"Gustave Flaubert\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Quel est le plus grand désert du monde?\",\n      \"options\": [\"Le Sahara\", \"Le désert de Gobi\", \"Le désert d'Atacama\", \"Le désert du Kalahari\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Quelle planète est la plus proche du soleil?\",\n      \"options\": [\"Vénus\", \"Mercure\", \"Mars\", \"Jupiter\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Quel est l'élément le plus abondant dans l'atmosphère terrestre?\",\n      \"options\": [\"Azote\", \"Oxygène\", \"Argon\", \"Dioxyde de carbone\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Qui a découvert la gravité avec la fameuse histoire de la pomme?\",\n      \"options\": [\"Isaac Newton\", \"Galilée\", \"Albert Einstein\", \"Nikola Tesla\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Quel est le plus grand continent du monde?\",\n      \"options\": [\"Afrique\", \"Europe\", \"Amérique\", \"Asie\"],\n      \"correctIndex\": 3\n    }\n  ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 101,
+    "completion_tokens": 571,
+    "total_tokens": 672,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
