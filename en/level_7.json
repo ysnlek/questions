@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of Germany?",
+            "options": ["A. London", "B. Paris", "C. Berlin", "D. Rome"],
+            "correctIndex": 2
+        },
+        {
+            "question": "Who is the author of 'To Kill a Mockingbird'?",
+            "options": ["A. Harper Lee", "B. J.D. Salinger", "C. F. Scott Fitzgerald", "D. Ernest Hemingway"],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which is the smallest continent in the world?",
+            "options": ["A. Africa", "B. Europe", "C. Australia", "D. Antarctica"],
+            "correctIndex": 3
+        },
+        {
+            "question": "Who discovered penicillin?",
+            "options": ["A. Alexander Fleming", "B. Louis Pasteur", "C. Marie Curie", "D. Gregor Mendel"],
+            "correctIndex": 0
+        },
+        {
+            "question": "What is the largest island in the world?",
+            "options": ["A. Greenland", "B. Australia", "C. Borneo", "D. Madagascar"],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which famous artist is known for painting the Sistine Chapel ceiling?",
+            "options": ["A. Leonardo da Vinci", "B. Michelangelo", "C. Raphael", "D. Donatello"],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the national animal of China?",
+            "options": ["A. Panda", "B. Dragon", "C. Tiger", "D. Elephant"],
+            "correctIndex": 0
+        },
+        {
+            "question": "Who is the lead singer of the band Queen?",
+            "options": ["A. Freddie Mercury", "B. Mick Jagger", "C. David Bowie", "D. Elton John"],
+            "correctIndex": 0
+        },
+        {
+            "question": "What is the largest lake in Africa?",
+            "options": ["A. Lake Victoria", "B. Lake Tanganyika", "C. Lake Malawi", "D. Lake Turkana"],
+            "correctIndex": 0
+        },
+        {
+            "question": "Which famous physicist developed the theory of general relativity?",
+            "options": ["A. Isaac Newton", "B. Albert Einstein", "C. Stephen Hawking", "D. Niels Bohr"],
+            "correctIndex": 1
+        }
+    ]
+}
