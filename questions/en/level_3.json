@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsX0qnsKbQGEGr4CKqsnjHxjoR3rO",
+  "object": "chat.completion",
+  "created": 1752336312,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n    \"questions\": [\n        {\n            \"question\": \"What is the currency of Japan?\",\n            \"options\": [\"Yen\", \"Dollar\", \"Euro\", \"Pound\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Who wrote the famous play 'Romeo and Juliet'?\",\n            \"options\": [\"William Shakespeare\", \"Charles Dickens\", \"Jane Austen\", \"Mark Twain\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"In which city is the Eiffel Tower located?\",\n            \"options\": [\"London\", \"Paris\", \"Rome\", \"Berlin\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"What is the largest mammal on Earth?\",\n            \"options\": [\"Elephant\", \"Blue Whale\", \"Giraffe\", \"Hippopotamus\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Who is known as the 'Father of Computer Science'?\",\n            \"options\": [\"Alan Turing\", \"Bill Gates\", \"Steve Jobs\", \"Mark Zuckerberg\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which country is famous for the ancient city of Petra?\",\n            \"options\": [\"Greece\", \"Italy\", \"Jordan\", \"Egypt\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"What is the national flower of India?\",\n            \"options\": [\"Rose\", \"Lotus\", \"Daisy\", \"Tulip\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Who discovered penicillin?\",\n            \"options\": [\"Marie Curie\", \"Alexander Fleming\", \"Louis Pasteur\", \"Albert Einstein\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Which planet is known as the 'Morning Star'?\",\n            \"options\": [\"Mars\", \"Venus\", \"Mercury\", \"Jupiter\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Who is the author of the book 'The Great Gatsby'?\",\n            \"options\": [\"F. Scott Fitzgerald\", \"Ernest Hemingway\", \"J.D. Salinger\", \"Virginia Woolf\"],\n            \"correctIndex\": 0\n        }\n    ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1177,
+    "completion_tokens": 491,
+    "total_tokens": 1668,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
