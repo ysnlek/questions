@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsVC0UV1SLxLiAjm5z5KbV83e1yJY",
+  "object": "chat.completion",
+  "created": 1752329316,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"questions\": [\n    {\n      \"question\": \"What is the capital of France?\",\n      \"options\": [\"A) London\", \"B) Paris\", \"C) Madrid\", \"D) Rome\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Who wrote the play 'Romeo and Juliet'?\",\n      \"options\": [\"A) William Shakespeare\", \"B) Jane Austen\", \"C) Charles Dickens\", \"D) Mark Twain\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"What is the largest mammal in the world?\",\n      \"options\": [\"A) Elephant\", \"B) Blue Whale\", \"C) Giraffe\", \"D) Lion\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Which planet is known as the Red Planet?\",\n      \"options\": [\"A) Venus\", \"B) Mars\", \"C) Jupiter\", \"D) Saturn\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Who painted the Mona Lisa?\",\n      \"options\": [\"A) Vincent van Gogh\", \"B) Pablo Picasso\", \"C) Leonardo da Vinci\", \"D) Rembrandt\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"What is the chemical symbol for gold?\",\n      \"options\": [\"A) Au\", \"B) Ag\", \"C) Fe\", \"D) Cu\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Which country is famous for Oktoberfest?\",\n      \"options\": [\"A) Italy\", \"B) Germany\", \"C) France\", \"D) Spain\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"What is the largest ocean on Earth?\",\n      \"options\": [\"A) Atlantic Ocean\", \"B) Pacific Ocean\", \"C) Indian Ocean\", \"D) Arctic Ocean\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Who is known as the father of computers?\",\n      \"options\": [\"A) Bill Gates\", \"B) Steve Jobs\", \"C) Alan Turing\", \"D) Charles Babbage\"],\n      \"correctIndex\": 3\n    },\n    {\n      \"question\": \"Which famous scientist developed the theory of relativity?\",\n      \"options\": [\"A) Isaac Newton\", \"B) Galileo Galilei\", \"C) Albert Einstein\", \"D) Nikola Tesla\"],\n      \"correctIndex\": 2\n    }\n  ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 99,
+    "completion_tokens": 538,
+    "total_tokens": 637,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
