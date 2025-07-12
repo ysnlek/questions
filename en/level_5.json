@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["A. Toronto", "B. Vancouver", "C. Ottawa", "D. Montreal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who is the author of the 'Lord of the Rings' trilogy?",
+      "options": ["A. J.K. Rowling", "B. J.R.R. Tolkien", "C. George R.R. Martin", "D. C.S. Lewis"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star'?",
+      "options": ["A. Venus", "B. Mercury", "C. Mars", "D. Jupiter"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Who is the first female Prime Minister of the United Kingdom?",
+      "options": ["A. Margaret Thatcher", "B. Theresa May", "C. Angela Merkel", "D. Jacinda Ardern"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the largest river in the world by discharge?",
+      "options": ["A. Amazon River", "B. Nile River", "C. Yangtze River", "D. Mississippi River"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+      "options": ["A. Sweden", "B. Norway", "C. Finland", "D. Iceland"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who is the famous physicist known for the theory of general relativity?",
+      "options": ["A. Isaac Newton", "B. Albert Einstein", "C. Stephen Hawking", "D. Galileo Galilei"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the largest hot desert in the world?",
+      "options": ["A. Sahara Desert", "B. Arabian Desert", "C. Kalahari Desert", "D. Gobi Desert"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which element is the lightest in the periodic table?",
+      "options": ["A. Hydrogen", "B. Helium", "C. Lithium", "D. Neon"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Who is the famous playwright of the tragedy 'Hamlet'?",
+      "options": ["A. William Shakespeare", "B. Christopher Marlowe", "C. Ben Jonson", "D. John Milton"],
+      "correctIndex": 0
+    }
+  ]
+}
