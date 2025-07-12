@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-BsWkbh6sLfB0ynxJpPEvidYb5m4nM",
+  "id": "chatcmpl-BsWlHA05jji4mpdT0jJdvGWX1GzvN",
   "object": "chat.completion",
-  "created": 1752335305,
+  "created": 1752335347,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "{\n    \"questions\": [\n        {\n            \"question\": \"What is the capital of Australia?\",\n            \"options\": [\"Sydney\", \"Canberra\", \"Melbourne\", \"Brisbane\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Which planet is known as the 'Red Planet'?\",\n            \"options\": [\"Venus\", \"Mars\", \"Jupiter\", \"Saturn\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Who painted the Mona Lisa?\",\n            \"options\": [\"Vincent van Gogh\", \"Leonardo da Vinci\", \"Pablo Picasso\", \"Michelangelo\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Which country is famous for the Taj Mahal?\",\n            \"options\": [\"India\", \"China\", \"Egypt\", \"Italy\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"What is the largest mammal in the world?\",\n            \"options\": [\"Elephant\", \"Blue Whale\", \"Giraffe\", \"Hippopotamus\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Who wrote the play 'Romeo and Juliet'?\",\n            \"options\": [\"William Shakespeare\", \"Charles Dickens\", \"Jane Austen\", \"George Orwell\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which element is represented by the symbol 'H' on the periodic table?\",\n            \"options\": [\"Hydrogen\", \"Helium\", \"Iron\", \"Mercury\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"What is the largest ocean on Earth?\",\n            \"options\": [\"Atlantic Ocean\", \"Indian Ocean\", \"Arctic Ocean\", \"Pacific Ocean\"],\n            \"correctIndex\": 3\n        },\n        {\n            \"question\": \"Who is credited with inventing the light bulb?\",\n            \"options\": [\"Thomas Edison\", \"Alexander Graham Bell\", \"Nikola Tesla\", \"Albert Einstein\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which famous scientist developed the theory of relativity?\",\n            \"options\": [\"Isaac Newton\", \"Galileo Galilei\", \"Albert Einstein\", \"Stephen Hawking\"],\n            \"correctIndex\": 2\n        }\n    ]\n}",
+        "content": "{\n  \"questions\": [\n    {\n      \"question\": \"Which planet is known as the Red Planet?\",\n      \"options\": [\"Mars\", \"Venus\", \"Jupiter\", \"Saturn\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"What is the capital city of Australia?\",\n      \"options\": [\"Sydney\", \"Canberra\", \"Melbourne\", \"Perth\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Who painted the Mona Lisa?\",\n      \"options\": [\"Vincent van Gogh\", \"Pablo Picasso\", \"Leonardo da Vinci\", \"Claude Monet\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Which country is famous for producing maple syrup?\",\n      \"options\": [\"France\", \"Italy\", \"Canada\", \"Brazil\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"What is the largest ocean on Earth?\",\n      \"options\": [\"Indian Ocean\", \"Arctic Ocean\", \"Atlantic Ocean\", \"Pacific Ocean\"],\n      \"correctIndex\": 3\n    },\n    {\n      \"question\": \"Who wrote the novel 'Pride and Prejudice'?\",\n      \"options\": [\"Charles Dickens\", \"Jane Austen\", \"Emily Bronte\", \"Mark Twain\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"What is the tallest mountain in the world?\",\n      \"options\": [\"Mt. Kilimanjaro\", \"Mt. Everest\", \"Mt. Fuji\", \"Denali\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Which element has the chemical symbol 'H'?\",\n      \"options\": [\"Hydrogen\", \"Helium\", \"Carbon\", \"Oxygen\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Who played the character Harry Potter in the movie series?\",\n      \"options\": [\"Daniel Radcliffe\", \"Rupert Grint\", \"Tom Felton\", \"Matthew Lewis\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Which famous artist cut off his own ear?\",\n      \"options\": [\"Salvador Dali\", \"Vincent van Gogh\", \"Pablo Picasso\", \"Leonardo da Vinci\"],\n      \"correctIndex\": 1\n    }\n  ]\n}",
         "refusal": null,
         "annotations": []
       },
@@ -18,8 +18,8 @@
   ],
   "usage": {
     "prompt_tokens": 100,
-    "completion_tokens": 495,
-    "total_tokens": 595,
+    "completion_tokens": 498,
+    "total_tokens": 598,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
