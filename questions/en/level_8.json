@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsXOG8DHL6IJWSPfaUa53ZvyAOTMl",
+  "object": "chat.completion",
+  "created": 1752337764,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"questions\":[\n{\"question\":\"Who is the lead singer of the band 'Queen'?\",\"options\":[\"Freddie Mercury\",\"David Bowie\",\"Elton John\",\"Mick Jagger\"],\"correctIndex\":0},\n{\"question\":\"What is the chemical symbol for gold?\",\"options\":[\"Au\",\"Ag\",\"Cu\",\"Fe\"],\"correctIndex\":0},\n{\"question\":\"Which famous scientist developed the theory of general relativity?\",\"options\":[\"Isaac Newton\",\"Galileo Galilei\",\"Albert Einstein\",\"Stephen Hawking\"],\"correctIndex\":2},\n{\"question\":\"What is the capital city of Japan?\",\"options\":[\"Beijing\",\"Seoul\",\"Tokyo\",\"Bangkok\"],\"correctIndex\":2},\n{\"question\":\"Who is the main character in the novel 'To Kill a Mockingbird'?\",\"options\":[\"Atticus Finch\",\"Scout Finch\",\"Tom Robinson\",\"Boo Radley\"],\"correctIndex\":1},\n{\"question\":\"What is the currency of Japan?\",\"options\":[\"Won\",\"Yuan\",\"Yen\",\"Dollar\"],\"correctIndex\":2},\n{\"question\":\"Which famous artist is known for painting the 'Starry Night'?\",\"options\":[\"Pablo Picasso\",\"Vincent van Gogh\",\"Leonardo da Vinci\",\"Claude Monet\"],\"correctIndex\":1},\n{\"question\":\"What is the largest river in the world?\",\"options\":[\"Amazon River\",\"Nile River\",\"Yangtze River\",\"Mississippi River\"],\"correctIndex\":0},\n{\"question\":\"Who is the Greek god of the sea?\",\"options\":[\"Hades\",\"Zeus\",\"Poseidon\",\"Apollo\"],\"correctIndex\":2},\n{\"question\":\"Which planet is known as the 'Morning Star'?\",\"options\":[\"Mars\",\"Venus\",\"Mercury\",\"Jupiter\"],\"correctIndex\":1}\n]}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 6588,
+    "completion_tokens": 356,
+    "total_tokens": 6944,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
