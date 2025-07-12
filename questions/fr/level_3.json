@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsV9JJuhn059MkJLZYxdkGx0Ad2KO",
+  "object": "chat.completion",
+  "created": 1752329149,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"questions\": [\n    {\n      \"question\": \"Quel est l'océan le plus grand du monde?\",\n      \"options\": [\"Atlantique\", \"Pacifique\", \"Indien\", \"Arctique\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Qui a peint la Joconde?\",\n      \"options\": [\"Van Gogh\", \"Picasso\", \"Leonard de Vinci\", \"Michel-Ange\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Quelle planète est la plus proche du soleil?\",\n      \"options\": [\"Vénus\", \"Mercure\", \"Terre\", \"Mars\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Quelle est la capitale de la France?\",\n      \"options\": [\"Berlin\", \"Rome\", \"Londres\", \"Paris\"],\n      \"correctIndex\": 3\n    },\n    {\n      \"question\": \"Combien de continents y a-t-il sur Terre?\",\n      \"options\": [\"5\", \"6\", \"7\", \"8\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Quel est le plus grand mammifère terrestre?\",\n      \"options\": [\"Éléphant\", \"Girafe\", \"Rhino\", \"Baleine\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Quelle est la monnaie officielle du Japon?\",\n      \"options\": [\"Euro\", \"Rouble\", \"Dollar\", \"Yen\"],\n      \"correctIndex\": 3\n    },\n    {\n      \"question\": \"Qui a écrit 'Roméo et Juliette'?\",\n      \"options\": [\"Victor Hugo\", \"William Shakespeare\", \"Charles Dickens\", \"Jane Austen\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Quelle est la plus haute montagne du monde?\",\n      \"options\": [\"Mont Blanc\", \"Everest\", \"K2\", \"Kilimandjaro\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Quel est l'inventeur de la machine à vapeur?\",\n      \"options\": [\"Thomas Edison\", \"Alexander Graham Bell\", \"James Watt\", \"Nikola Tesla\"],\n      \"correctIndex\": 2\n    }\n  ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 101,
+    "completion_tokens": 514,
+    "total_tokens": 615,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
