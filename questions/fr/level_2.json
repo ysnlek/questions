@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsV7bOdw39JKoU832fk4QY349mx78",
+  "object": "chat.completion",
+  "created": 1752329043,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"questions\": [\n    {\n      \"question\": \"Quelle est la capitale de la France?\",\n      \"options\": [\"A. Paris\", \"B. Londres\", \"C. Berlin\", \"D. Rome\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Combien de planètes composent notre système solaire?\",\n      \"options\": [\"A. 7\", \"B. 8\", \"C. 9\", \"D. 10\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Qui a peint la Joconde?\",\n      \"options\": [\"A. Michel-Ange\", \"B. Léonard de Vinci\", \"C. Pablo Picasso\", \"D. Vincent van Gogh\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Quel est l'animal terrestre le plus rapide?\",\n      \"options\": [\"A. Guépard\", \"B. Lion\", \"C. Antilope\", \"D. Autruche\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Quelle est la plus grande planète du système solaire?\",\n      \"options\": [\"A. Jupiter\", \"B. Saturne\", \"C. Uranus\", \"D. Neptune\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Qui a écrit 'Le Petit Prince'?\",\n      \"options\": [\"A. Jules Verne\", \"B. Antoine de Saint-Exupéry\", \"C. Victor Hugo\", \"D. Charles Baudelaire\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Quel est l'élément le plus abondant dans l'univers?\",\n      \"options\": [\"A. Hydrogène\", \"B. Hélium\", \"C. Carbone\", \"D. Oxygène\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Quel est le plus grand océan de la planète?\",\n      \"options\": [\"A. Océan Atlantique\", \"B. Océan Arctique\", \"C. Océan Indien\", \"D. Océan Pacifique\"],\n      \"correctIndex\": 3\n    },\n    {\n      \"question\": \"Quelle est la monnaie officielle du Japon?\",\n      \"options\": [\"A. Yen\", \"B. Yuan\", \"C. Euro\", \"D. Dollar\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Qui a découvert la gravité universelle?\",\n      \"options\": [\"A. Isaac Newton\", \"B. Albert Einstein\", \"C. Galilée\", \"D. Copernic\"],\n      \"correctIndex\": 0\n    }\n  ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 101,
+    "completion_tokens": 612,
+    "total_tokens": 713,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
