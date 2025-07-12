@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsXNOSVOADuJb4Zhb4kgqUylfBGZp",
+  "object": "chat.completion",
+  "created": 1752337710,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n    \"questions\": [\n        {\n            \"question\": \"Who is the lead singer of the band 'Queen'?\",\n            \"options\": [\"Freddie Mercury\", \"David Bowie\", \"Elton John\", \"Mick Jagger\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"What is the chemical symbol for gold?\",\n            \"options\": [\"Au\", \"Ag\", \"Cu\", \"Fe\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which famous scientist developed the theory of general relativity?\",\n            \"options\": [\"Isaac Newton\", \"Galileo Galilei\", \"Albert Einstein\", \"Stephen Hawking\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"What is the capital city of Japan?\",\n            \"options\": [\"Beijing\", \"Seoul\", \"Tokyo\", \"Bangkok\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"Who is the main character in the novel 'To Kill a Mockingbird'?\",\n            \"options\": [\"Atticus Finch\", \"Scout Finch\", \"Tom Robinson\", \"Boo Radley\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"What is the currency of Japan?\",\n            \"options\": [\"Won\", \"Yuan\", \"Yen\", \"Dollar\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"Which famous artist is known for painting the 'Starry Night'?\",\n            \"options\": [\"Pablo Picasso\", \"Vincent van Gogh\", \"Leonardo da Vinci\", \"Claude Monet\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"What is the largest river in the world?\",\n            \"options\": [\"Amazon River\", \"Nile River\", \"Yangtze River\", \"Mississippi River\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Who is the Greek god of the sea?\",\n            \"options\": [\"Hades\", \"Zeus\", \"Poseidon\", \"Apollo\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"Which planet is known as the 'Morning Star'?\",\n            \"options\": [\"Mars\", \"Venus\", \"Mercury\", \"Jupiter\"],\n            \"correctIndex\": 1\n        }\n    ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5505,
+    "completion_tokens": 504,
+    "total_tokens": 6009,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
