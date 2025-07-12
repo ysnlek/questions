@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["A. Sydney", "B. Melbourne", "C. Canberra", "D. Brisbane"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who wrote the novel 'Pride and Prejudice'?",
+      "options": ["A. Jane Austen", "B. Charlotte Bronte", "C. Emily Dickinson", "D. Virginia Woolf"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the largest continent by land area?",
+      "options": ["A. Africa", "B. Europe", "C. Asia", "D. North America"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which famous scientist discovered the theory of gravity?",
+      "options": ["A. Isaac Newton", "B. Nikola Tesla", "C. Thomas Edison", "D. Galileo Galilei"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the national flower of Japan?",
+      "options": ["A. Rose", "B. Lotus", "C. Cherry Blossom", "D. Tulip"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who is the Greek god of the sea?",
+      "options": ["A. Zeus", "B. Poseidon", "C. Hades", "D. Apollo"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the largest bird in the world?",
+      "options": ["A. Ostrich", "B. Eagle", "C. Albatross", "D. Emu"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which planet has the most moons in our solar system?",
+      "options": ["A. Jupiter", "B. Saturn", "C. Uranus", "D. Neptune"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Who painted the famous artwork 'Starry Night'?",
+      "options": ["A. Vincent van Gogh", "B. Pablo Picasso", "C. Claude Monet", "D. Salvador Dali"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["A. Avocado", "B. Tomato", "C. Onion", "D. Garlic"],
+      "correctIndex": 0
+    }
+  ]
+}
