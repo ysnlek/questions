@@ -1,14 +1,14 @@
 {
-  "id": "chatcmpl-BsX2vr9tFqnamh42Qd6t0RXi813ho",
+  "id": "chatcmpl-BsX3c3kub5X8zCAarMMMvIc8Fu0Ku",
   "object": "chat.completion",
-  "created": 1752336441,
+  "created": 1752336484,
   "model": "gpt-3.5-turbo-0125",
   "choices": [
     {
       "index": 0,
       "message": {
         "role": "assistant",
-        "content": "{\n    \"questions\": [\n        {\n            \"question\": \"What is the capital city of France?\",\n            \"options\": [\"London\", \"Berlin\", \"Paris\", \"Madrid\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"Who is the author of the Harry Potter book series?\",\n            \"options\": [\"J.K. Rowling\", \"Stephen King\", \"George R.R. Martin\", \"Tolkien\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which planet is closest to the Sun?\",\n            \"options\": [\"Mars\", \"Venus\", \"Mercury\", \"Earth\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"Who is known as the 'Queen of Pop'?\",\n            \"options\": [\"Madonna\", \"Beyoncé\", \"Lady Gaga\", \"Taylor Swift\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"What is the currency of Japan?\",\n            \"options\": [\"Euro\", \"Dollar\", \"Yen\", \"Pound\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"Which famous scientist developed the theory of relativity?\",\n            \"options\": [\"Isaac Newton\", \"Albert Einstein\", \"Stephen Hawking\", \"Galileo Galilei\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"In which year did the Titanic sink?\",\n            \"options\": [\"1912\", \"1923\", \"1901\", \"1935\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Who is the lead vocalist of the band Queen?\",\n            \"options\": [\"Freddie Mercury\", \"John Lennon\", \"Mick Jagger\", \"Elton John\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which country is known as the 'Land of the Rising Sun'?\",\n            \"options\": [\"China\", \"India\", \"Japan\", \"South Korea\"],\n            \"correctIndex\": 2\n        },\n        {\n            \"question\": \"What is the largest planet in our solar system?\",\n            \"options\": [\"Mars\", \"Venus\", \"Jupiter\", \"Saturn\"],\n            \"correctIndex\": 2\n        }\n    ]\n}",
+        "content": "{\n  \"questions\": [\n    {\n      \"question\": \"Who is the author of the book 'The Great Gatsby'?\",\n      \"options\": [\"F. Scott Fitzgerald\", \"Ernest Hemingway\", \"Jane Austen\", \"Charles Dickens\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"What is the largest organ in the human body?\",\n      \"options\": [\"Heart\", \"Liver\", \"Skin\", \"Lungs\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Which planet is closest to the Sun?\",\n      \"options\": [\"Mars\", \"Venus\", \"Mercury\", \"Jupiter\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Who is the lead singer of the band 'Queen'?\",\n      \"options\": [\"Freddie Mercury\", \"David Bowie\", \"Elton John\", \"Mick Jagger\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"What is the chemical symbol for gold?\",\n      \"options\": [\"Au\", \"Ag\", \"Cu\", \"Fe\"],\n      \"correctIndex\": 0\n    },\n    {\n      \"question\": \"Which famous scientist developed the theory of general relativity?\",\n      \"options\": [\"Isaac Newton\", \"Galileo Galilei\", \"Albert Einstein\", \"Stephen Hawking\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"What is the capital city of Japan?\",\n      \"options\": [\"Beijing\", \"Seoul\", \"Tokyo\", \"Bangkok\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"Who is the main character in the novel 'To Kill a Mockingbird'?\",\n      \"options\": [\"Atticus Finch\", \"Scout Finch\", \"Tom Robinson\", \"Boo Radley\"],\n      \"correctIndex\": 1\n    },\n    {\n      \"question\": \"Which famous physicist formulated the theory of relativity?\",\n      \"options\": [\"Isaac Newton\", \"Niels Bohr\", \"Albert Einstein\", \"Max Planck\"],\n      \"correctIndex\": 2\n    },\n    {\n      \"question\": \"What is the largest planet in our solar system?\",\n      \"options\": [\"Mars\", \"Saturn\", \"Jupiter\", \"Neptune\"],\n      \"correctIndex\": 2\n    }\n  ]\n}",
         "refusal": null,
         "annotations": []
       },
@@ -18,8 +18,8 @@
   ],
   "usage": {
     "prompt_tokens": 2245,
-    "completion_tokens": 483,
-    "total_tokens": 2728,
+    "completion_tokens": 503,
+    "total_tokens": 2748,
     "prompt_tokens_details": {
       "cached_tokens": 0,
       "audio_tokens": 0
