@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsW9haYdNpimC0QZ8ryfs3kQ8M7Yu",
+  "object": "chat.completion",
+  "created": 1752333017,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"questions\":[\n{\"question\":\"What is the capital of Australia?\",\"options\":[\"Sydney\",\"Melbourne\",\"Canberra\",\"Perth\"],\"correctIndex\":2},\n{\"question\":\"How many continents are there in the world?\",\"options\":[\"5\",\"6\",\"7\",\"8\"],\"correctIndex\":2},\n{\"question\":\"Who wrote the famous play 'Romeo and Juliet'?\",\"options\":[\"William Shakespeare\",\"Jane Austen\",\"Charles Dickens\",\"Mark Twain\"],\"correctIndex\":0},\n{\"question\":\"What is the largest mammal on Earth?\",\"options\":[\"Elephant\",\"Blue whale\",\"Giraffe\",\"Hippopotamus\"],\"correctIndex\":1},\n{\"question\":\"What is the chemical symbol for gold?\",\"options\":[\"Au\",\"Ag\",\"Fe\",\"Hg\"],\"correctIndex\":0},\n{\"question\":\"Which planet is known as the Red Planet?\",\"options\":[\"Jupiter\",\"Mars\",\"Venus\",\"Saturn\"],\"correctIndex\":1},\n{\"question\":\"Who painted the Mona Lisa?\",\"options\":[\"Leonardo da Vinci\",\"Vincent van Gogh\",\"Pablo Picasso\",\"Claude Monet\"],\"correctIndex\":0},\n{\"question\":\"Which country is famous for the ancient pyramids?\",\"options\":[\"Greece\",\"Italy\",\"Egypt\",\"Mexico\"],\"correctIndex\":2},\n{\"question\":\"What is the main ingredient in guacamole?\",\"options\":[\"Tomato\",\"Avocado\",\"Onion\",\"Lemon\"],\"correctIndex\":1},\n{\"question\":\"Which famous scientist developed the theory of relativity?\",\"options\":[\"Isaac Newton\",\"Albert Einstein\",\"Galileo Galilei\",\"Stephen Hawking\"],\"correctIndex\":1}\n]}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 97,
+    "completion_tokens": 333,
+    "total_tokens": 430,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
