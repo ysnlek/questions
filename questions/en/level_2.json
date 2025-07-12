@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsWkbh6sLfB0ynxJpPEvidYb5m4nM",
+  "object": "chat.completion",
+  "created": 1752335305,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n    \"questions\": [\n        {\n            \"question\": \"What is the capital of Australia?\",\n            \"options\": [\"Sydney\", \"Canberra\", \"Melbourne\", \"Brisbane\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Which planet is known as the 'Red Planet'?\",\n            \"options\": [\"Venus\", \"Mars\", \"Jupiter\", \"Saturn\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Who painted the Mona Lisa?\",\n            \"options\": [\"Vincent van Gogh\", \"Leonardo da Vinci\", \"Pablo Picasso\", \"Michelangelo\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Which country is famous for the Taj Mahal?\",\n            \"options\": [\"India\", \"China\", \"Egypt\", \"Italy\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"What is the largest mammal in the world?\",\n            \"options\": [\"Elephant\", \"Blue Whale\", \"Giraffe\", \"Hippopotamus\"],\n            \"correctIndex\": 1\n        },\n        {\n            \"question\": \"Who wrote the play 'Romeo and Juliet'?\",\n            \"options\": [\"William Shakespeare\", \"Charles Dickens\", \"Jane Austen\", \"George Orwell\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which element is represented by the symbol 'H' on the periodic table?\",\n            \"options\": [\"Hydrogen\", \"Helium\", \"Iron\", \"Mercury\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"What is the largest ocean on Earth?\",\n            \"options\": [\"Atlantic Ocean\", \"Indian Ocean\", \"Arctic Ocean\", \"Pacific Ocean\"],\n            \"correctIndex\": 3\n        },\n        {\n            \"question\": \"Who is credited with inventing the light bulb?\",\n            \"options\": [\"Thomas Edison\", \"Alexander Graham Bell\", \"Nikola Tesla\", \"Albert Einstein\"],\n            \"correctIndex\": 0\n        },\n        {\n            \"question\": \"Which famous scientist developed the theory of relativity?\",\n            \"options\": [\"Isaac Newton\", \"Galileo Galilei\", \"Albert Einstein\", \"Stephen Hawking\"],\n            \"correctIndex\": 2\n        }\n    ]\n}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 100,
+    "completion_tokens": 495,
+    "total_tokens": 595,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
