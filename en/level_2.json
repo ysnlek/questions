@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["A. Yen", "B. Euro", "C. Dollar", "D. Pound"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Who is known as the father of computers?",
+      "options": ["A. Alan Turing", "B. Bill Gates", "C. Steve Jobs", "D. Mark Zuckerberg"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["A. Venus", "B. Mercury", "C. Earth", "D. Mars"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["A. William Shakespeare", "B. Charles Dickens", "C. Jane Austen", "D. Oscar Wilde"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["A. Mount Everest", "B. K2", "C. Kangchenjunga", "D. Lhotse"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["A. China", "B. Japan", "C. India", "D. Australia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who is the author of the famous novel '1984'?",
+      "options": ["A. George Orwell", "B. J.R.R. Tolkien", "C. Agatha Christie", "D. Ernest Hemingway"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["A. Sahara Desert", "B. Gobi Desert", "C. Arabian Desert", "D. Kalahari Desert"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which element is the most abundant in the Earth's atmosphere?",
+      "options": ["A. Nitrogen", "B. Oxygen", "C. Carbon", "D. Hydrogen"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Who is the current President of the United States?",
+      "options": ["A. Joe Biden", "B. Donald Trump", "C. Barack Obama", "D. George W. Bush"],
+      "correctIndex": 0
+    }
+  ]
+}
