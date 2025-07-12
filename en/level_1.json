@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-BsZyzpz9Fp5KD8t90JxcOt2A0Zq6h",
+  "object": "chat.completion",
+  "created": 1752347729,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"questions\":[\n{\"question\":\"What is the capital of France?\",\"options\":[\"A. London\",\"B. Paris\",\"C. Berlin\",\"D. Rome\"],\"correctIndex\":1},\n{\"question\":\"Who wrote the Harry Potter book series?\",\"options\":[\"A. J.K. Rowling\",\"B. Stephen King\",\"C. George R.R. Martin\",\"D. Dan Brown\"],\"correctIndex\":0},\n{\"question\":\"What is the largest mammal in the world?\",\"options\":[\"A. Elephant\",\"B. Blue whale\",\"C. Giraffe\",\"D. Lion\"],\"correctIndex\":1},\n{\"question\":\"Which planet is known as the Red Planet?\",\"options\":[\"A. Jupiter\",\"B. Venus\",\"C. Mars\",\"D. Saturn\"],\"correctIndex\":2},\n{\"question\":\"What is the chemical symbol for gold?\",\"options\":[\"A. Au\",\"B. Ag\",\"C. Fe\",\"D. Hg\"],\"correctIndex\":0},\n{\"question\":\"Who painted the Mona Lisa?\",\"options\":[\"A. Vincent van Gogh\",\"B. Leonardo da Vinci\",\"C. Pablo Picasso\",\"D. Claude Monet\"],\"correctIndex\":1},\n{\"question\":\"What is the largest ocean on Earth?\",\"options\":[\"A. Atlantic Ocean\",\"B. Indian Ocean\",\"C. Pacific Ocean\",\"D. Arctic Ocean\"],\"correctIndex\":2},\n{\"question\":\"Which famous scientist developed the theory of relativity?\",\"options\":[\"A. Isaac Newton\",\"B. Albert Einstein\",\"C. Galileo Galilei\",\"D. Stephen Hawking\"],\"correctIndex\":1},\n{\"question\":\"What is the primary language spoken in Brazil?\",\"options\":[\"A. Spanish\",\"B. English\",\"C. French\",\"D. Portuguese\"],\"correctIndex\":3},\n{\"question\":\"Which country is famous for the ancient pyramids?\",\"options\":[\"A. Greece\",\"B. Egypt\",\"C. China\",\"D. Mexico\"],\"correctIndex\":1}\n]}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 94,
+    "completion_tokens": 392,
+    "total_tokens": 486,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": null
+}
