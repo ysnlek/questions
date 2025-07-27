@@ -994,11 +994,11 @@
     { "question": "The Mariana Trench is the deepest part of the Atlantic Ocean.", "isTrue": false },
     { "question": "The Earth is the only planet in our solar system that supports life.", "isTrue": true },
     { "question": "All plants have roots.", "isTrue": false },
-    { "question": "The capital of Finland is Helsinki.", "isTrue": true }
+    { "question": "The capital of Finland is Helsinki.", "isTrue": true },
     { "question": "Sharks have bones.", "isTrue": false },
     { "question": "The Amazon River carries more water than any other river.", "isTrue": true },
     { "question": "The human eye has a blind spot.", "isTrue": true },
     { "question": "Venomous snakes are always brightly colored.", "isTrue": false },
-    { "question": "The capital of Canada is Toronto.", "isTrue": false }
+    { "question": "The capital of Canada is Toronto.", "isTrue": false },
   ]
 }
