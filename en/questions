@@ -1,1 +1,24 @@
-
+{
+  "questions": [
+    { "question": "The Earth is flat.", "isTrue": false },
+    { "question": "The sun rises in the east.", "isTrue": true },
+    { "question": "Water boils at 100°C.", "isTrue": true },
+    { "question": "Python is a type of snake only.", "isTrue": false },
+    { "question": "There are 26 letters in the English alphabet.", "isTrue": true },
+    { "question": "Humans can breathe underwater without equipment.", "isTrue": false },
+    { "question": "Lightning never strikes the same place twice.", "isTrue": false },
+    { "question": "Sharks are mammals.", "isTrue": false },
+    { "question": "The Great Wall of China is visible from space.", "isTrue": false },
+    { "question": "Mount Everest is the highest mountain on Earth.", "isTrue": true },
+    { "question": "Bats are blind.", "isTrue": false },
+    { "question": "Venus is the closest planet to the sun.", "isTrue": false },
+    { "question": "Sound travels faster in air than water.", "isTrue": false },
+    { "question": "An octopus has three hearts.", "isTrue": true },
+    { "question": "Bananas grow on trees.", "isTrue": false },
+    { "question": "A group of lions is called a pride.", "isTrue": true },
+    { "question": "There are seven continents on Earth.", "isTrue": true },
+    { "question": "Goldfish have a memory span of 3 seconds.", "isTrue": false },
+    { "question": "Albert Einstein won a Nobel Prize for his theory of relativity.", "isTrue": false },
+    { "question": "The human body has four lungs.", "isTrue": false }
+  ]
+}
