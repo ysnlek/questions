@@ -102,7 +102,7 @@
     { "question": "The process of diffusion involves particles moving from an area of higher concentration to lower concentration.", "isTrue": true },
     { "question": "The human brain is fully developed by the age of 18.", "isTrue": false },
     { "question": "The speed of sound is faster in warmer air.", "isTrue": true }
-	{ "question": "Christopher Columbus was the first European to discover America.", "isTrue": false },
+    { "question": "Christopher Columbus was the first European to discover America.", "isTrue": false },
     { "question": "The Great Wall of China was built to keep out dragons.", "isTrue": false },
     { "question": "The Roman Empire fell in 476 AD.", "isTrue": true },
     { "question": "The Declaration of Independence was signed in 1776.", "isTrue": true },
@@ -206,7 +206,7 @@
     { "question": "The first successful vaccine was developed by Louis Pasteur.", "isTrue": false },
     { "question": "The fall of the Berlin Wall symbolized the end of the Cold War.", "isTrue": true },
     { "question": "The Renaissance marked a rebirth of art and learning.", "isTrue": true }
-	{ "question": "The capital of Australia is Sydney.", "isTrue": false },
+    { "question": "The capital of Australia is Sydney.", "isTrue": false },
     { "question": "An octopus has three hearts.", "isTrue": true },
     { "question": "Mount Everest is the highest mountain in the world.", "isTrue": true },
     { "question": "Bats are blind.", "isTrue": false },
@@ -306,7 +306,7 @@
     { "question": "Pluto is classified as a dwarf planet.", "isTrue": true },
     { "question": "Sound intensity is measured in watts.", "isTrue": false },
     { "question": "The speed of light is approximately 300,000 km/s.", "isTrue": true }
-	{ "question": "The capital of Canada is Ottawa.", "isTrue": true },
+    { "question": "The capital of Canada is Ottawa.", "isTrue": true },
     { "question": "A group of crows is called a murder.", "isTrue": true },
     { "question": "The Earth is larger than the Sun.", "isTrue": false },
     { "question": "The currency of the United Kingdom is the Euro.", "isTrue": false },
@@ -407,7 +407,7 @@
     { "question": "The human eye can only see three primary colors of light.", "isTrue": true },
     { "question": "The most common gas in the Earth's atmosphere is oxygen.", "isTrue": false },
     { "question": "The smallest country in the world is Vatican City.", "isTrue": true }
-	{ "question": "The capital of Brazil is Rio de Janeiro.", "isTrue": false },
+    { "question": "The capital of Brazil is Rio de Janeiro.", "isTrue": false },
     { "question": "The human body has over 600 muscles.", "isTrue": true },
     { "question": "The longest continually flowing river in the United States is the Missouri River.", "isTrue": true },
     { "question": "The largest freshwater lake by surface area is Lake Superior.", "isTrue": true },
@@ -505,7 +505,7 @@
     { "question": "The Earth's atmosphere extends hundreds of kilometers into space.", "isTrue": true },
     { "question": "The first ever recorded Olympic Games were held in the year 776 AD.", "isTrue": false },
     { "question": "The average person has 100,000 hairs on their head.", "isTrue": true }
-	{ "question": "The capital of Australia is Canberra.", "isTrue": true },
+    { "question": "The capital of Australia is Canberra.", "isTrue": true },
     { "question": "The human body has only one kidney.", "isTrue": false },
     { "question": "The Amazon River is located in Africa.", "isTrue": false },
     { "question": "Dogs are colorblind and only see in black and white.", "isTrue": false },
@@ -603,7 +603,7 @@
     { "question": "The Earth is the only planet in our solar system not named after a god or goddess.", "isTrue": true },
     { "question": "All spiders are dangerous to humans.", "isTrue": false },
     { "question": "The capital of Peru is Lima.", "isTrue": true }
-	    { "question": "The capital of Portugal is Madrid.", "isTrue": false },
+    { "question": "The capital of Portugal is Madrid.", "isTrue": false },
     { "question": "The human body has enough fat to make seven bars of soap.", "isTrue": true },
     { "question": "The largest active volcano in the world is Mauna Loa.", "isTrue": true },
     { "question": "A group of cats is called a clowder.", "isTrue": true },
@@ -700,8 +700,8 @@
     { "question": "All venomous snakes are poisonous.", "isTrue": false },
     { "question": "The capital of South Africa is Johannesburg.", "isTrue": false },
     { "question": "The average lifespan of a common housefly is about two weeks.", "isTrue": true },
-    { "question": "The human brain has over 100 billion neurons.", "isTrue": true }
-	    { "question": "The capital of Australia is Melbourne.", "isTrue": false },
+    { "question": "The human brain has over 100 billion neurons.", "isTrue": true }   
+    { "question": "The capital of Australia is Melbourne.", "isTrue": false },
     { "question": "The human body has enough carbon to make 9,000 pencils.", "isTrue": true },
     { "question": "Mount Everest is part of the Andes mountain range.", "isTrue": false },
     { "question": "All spiders have eight legs.", "isTrue": true },
@@ -799,7 +799,7 @@
     { "question": "The Earth is the only planet in our solar system known to have liquid water on its surface.", "isTrue": true },
     { "question": "All fungi are edible.", "isTrue": false },
     { "question": "The capital of Finland is Stockholm.", "isTrue": false }
-	    { "question": "The capital of South Korea is Seoul.", "isTrue": true },
+    { "question": "The capital of South Korea is Seoul.", "isTrue": true },
     { "question": "The human body has enough sugar to make a cup of coffee sweet.", "isTrue": false },
     { "question": "The highest waterfall in the world is Angel Falls.", "isTrue": true },
     { "question": "A group of pugs is called a grumble.", "isTrue": true },
@@ -897,7 +897,7 @@
     { "question": "The Earth is the third planet from the Sun.", "isTrue": true },
     { "question": "All birds build nests.", "isTrue": false },
     { "question": "The capital of Argentina is Buenos Aires.", "isTrue": true }
-	    { "question": "The capital of South Africa is Pretoria.", "isTrue": false },
+    { "question": "The capital of South Africa is Pretoria.", "isTrue": false },
     { "question": "The human body has enough carbon to make approximately 2000 pencils.", "isTrue": false },
     { "question": "The highest mountain in North America is Mount McKinley.", "isTrue": true },
     { "question": "A group of owls is called a parliament.", "isTrue": true },
@@ -995,10 +995,10 @@
     { "question": "The Earth is the only planet in our solar system that supports life.", "isTrue": true },
     { "question": "All plants have roots.", "isTrue": false },
     { "question": "The capital of Finland is Helsinki.", "isTrue": true }
-	{ "question": "Sharks have bones.", "isTrue": false },
-	{ "question": "The Amazon River carries more water than any other river.", "isTrue": true },
-	{ "question": "The human eye has a blind spot.", "isTrue": true },
-	{ "question": "Venomous snakes are always brightly colored.", "isTrue": false },
-	{ "question": "The capital of Canada is Toronto.", "isTrue": false },
+    { "question": "Sharks have bones.", "isTrue": false },
+    { "question": "The Amazon River carries more water than any other river.", "isTrue": true },
+    { "question": "The human eye has a blind spot.", "isTrue": true },
+    { "question": "Venomous snakes are always brightly colored.", "isTrue": false },
+    { "question": "The capital of Canada is Toronto.", "isTrue": false },
   ]
 }
