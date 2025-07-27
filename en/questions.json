@@ -999,6 +999,6 @@
     { "question": "The Amazon River carries more water than any other river.", "isTrue": true },
     { "question": "The human eye has a blind spot.", "isTrue": true },
     { "question": "Venomous snakes are always brightly colored.", "isTrue": false },
-    { "question": "The capital of Canada is Toronto.", "isTrue": false },
+    { "question": "The capital of Canada is Toronto.", "isTrue": false }
   ]
 }
