@@ -1,24 +1,106 @@
+```json
 {
   "questions": [
-    { "question": "The Earth is flat.", "isTrue": false },
-    { "question": "The sun rises in the east.", "isTrue": true },
-    { "question": "Water boils at 100°C.", "isTrue": true },
-    { "question": "Python is a type of snake only.", "isTrue": false },
-    { "question": "There are 26 letters in the English alphabet.", "isTrue": true },
-    { "question": "Humans can breathe underwater without equipment.", "isTrue": false },
-    { "question": "Lightning never strikes the same place twice.", "isTrue": false },
-    { "question": "Sharks are mammals.", "isTrue": false },
-    { "question": "The Great Wall of China is visible from space.", "isTrue": false },
-    { "question": "Mount Everest is the highest mountain on Earth.", "isTrue": true },
-    { "question": "Bats are blind.", "isTrue": false },
-    { "question": "Venus is the closest planet to the sun.", "isTrue": false },
-    { "question": "Sound travels faster in air than water.", "isTrue": false },
-    { "question": "An octopus has three hearts.", "isTrue": true },
-    { "question": "Bananas grow on trees.", "isTrue": false },
-    { "question": "A group of lions is called a pride.", "isTrue": true },
-    { "question": "There are seven continents on Earth.", "isTrue": true },
-    { "question": "Goldfish have a memory span of 3 seconds.", "isTrue": false },
-    { "question": "Albert Einstein won a Nobel Prize for his theory of relativity.", "isTrue": false },
-    { "question": "The human body has four lungs.", "isTrue": false }
+    {
+      "question": "The Earth is flat.",
+      "isTrue": false,
+      "explanation": "The Earth is an oblate spheroid, which is a sphere that is slightly flattened at the poles and bulges at the equator. This has been proven by numerous scientific observations and experiments throughout history, from ancient Greek observations to modern satellite imagery."
+    },
+    {
+      "question": "The sun rises in the east.",
+      "isTrue": true,
+      "explanation": "Due to the Earth's rotation, the sun appears to rise in the east and set in the west. This is a fundamental astronomical observation."
+    },
+    {
+      "question": "Water boils at 100°C.",
+      "isTrue": true,
+      "explanation": "Pure water boils at 100 degrees Celsius (212 degrees Fahrenheit) at standard atmospheric pressure (sea level). Boiling point can vary with pressure and impurities."
+    },
+    {
+      "question": "Python is a type of snake only.",
+      "isTrue": false,
+      "explanation": "While 'Python' refers to a genus of large nonvenomous snakes, it also widely refers to a popular, high-level programming language used for web development, data analysis, artificial intelligence, and more."
+    },
+    {
+      "question": "There are 26 letters in the English alphabet.",
+      "isTrue": true,
+      "explanation": "The modern English alphabet consists of 26 letters: A through Z."
+    },
+    {
+      "question": "Humans can breathe underwater without equipment.",
+      "isTrue": false,
+      "explanation": "Humans are terrestrial mammals and cannot extract oxygen from water. We require specialized equipment like scuba gear to breathe underwater."
+    },
+    {
+      "question": "Lightning never strikes the same place twice.",
+      "isTrue": false,
+      "explanation": "Lightning can and often does strike the same place more than once, especially tall structures like skyscrapers or antennas. The Empire State Building, for example, is struck dozens of times a year."
+    },
+    {
+      "question": "Sharks are mammals.",
+      "isTrue": false,
+      "explanation": "Sharks are fish, specifically cartilaginous fish. Mammals are characterized by features like mammary glands, fur/hair, and live birth (though some fish also give live birth, sharks lack other mammalian characteristics)."
+    },
+    {
+      "question": "The Great Wall of China is visible from space.",
+      "isTrue": false,
+      "explanation": "This is a common myth. While the Great Wall is an immense structure, it's narrow and blends in with its surroundings, making it effectively invisible to the naked eye from Earth orbit or the Moon."
+    },
+    {
+      "question": "Mount Everest is the highest mountain on Earth.",
+      "isTrue": true,
+      "explanation": "Mount Everest, located in the Himalayas, is the highest mountain on Earth above sea level, reaching an elevation of 8,848.86 meters (29,031.7 feet)."
+    },
+    {
+      "question": "Bats are blind.",
+      "isTrue": false,
+      "explanation": "Bats are not blind; they can see, but most species rely heavily on echolocation (sonar) to navigate and hunt in the dark. Their eyesight is often quite good, especially in low light."
+    },
+    {
+      "question": "Venus is the closest planet to the sun.",
+      "isTrue": false,
+      "explanation": "Mercury is the closest planet to the sun. Venus is the second planet from the sun."
+    },
+    {
+      "question": "Sound travels faster in air than water.",
+      "isTrue": false,
+      "explanation": "Sound actually travels much faster in water (approximately 4.3 times faster) than it does in air because water is denser and its molecules are closer together, allowing vibrations to transmit more efficiently."
+    },
+    {
+      "question": "An octopus has three hearts.",
+      "isTrue": true,
+      "explanation": "An octopus has three hearts: two pump blood through the gills (brachial hearts), and one circulates blood to the rest of the body (systemic heart)."
+    },
+    {
+      "question": "Bananas grow on trees.",
+      "isTrue": false,
+      "explanation": "While they look like trees, banana plants are technically giant herbs, and the 'stem' is a pseudostem made of tightly packed leaves."
+    },
+    {
+      "question": "A group of lions is called a pride.",
+      "isTrue": true,
+      "explanation": "The collective noun for a group of lions is indeed a 'pride'. Groups of other animals have unique names too, like a 'flock' of birds or a 'pack' of wolves."
+    },
+    {
+      "question": "There are seven continents on Earth.",
+      "isTrue": true,
+      "explanation": "The most widely recognized model divides Earth into seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+    },
+    {
+      "question": "Goldfish have a memory span of 3 seconds.",
+      "isTrue": false,
+      "explanation": "This is a common myth. Research has shown that goldfish can remember things for several months, and can even be trained to perform tricks and respond to specific cues."
+    },
+    {
+      "question": "Albert Einstein won a Nobel Prize for his theory of relativity.",
+      "isTrue": false,
+      "explanation": "Albert Einstein won the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect, not specifically for his theory of relativity. While relativity is his most famous work, it was still debated by some at the time of his Nobel award."
+    },
+    {
+      "question": "The human body has four lungs.",
+      "isTrue": false,
+      "explanation": "The human body typically has two lungs, one on each side of the chest cavity."
+    }
   ]
 }
+```
