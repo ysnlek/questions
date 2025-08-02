@@ -1,451 +1,504 @@
 {
-  "questions": [
-[
-    {
-        "question": "The Earth orbits the Sun.",
-        "isTrue": true,
-        "explanation": "The Earth revolves around the Sun in an elliptical orbit. This movement, along with Earth's axial tilt, causes the seasons."
-    },
-    {
-        "question": "Water boils at 100 degrees Celsius at sea level.",
-        "isTrue": true,
-        "explanation": "At standard atmospheric pressure (sea level), the boiling point of pure water is precisely 100°C (212°F). This temperature changes with altitude and pressure."
-    },
-    {
-        "question": "Diamonds are the hardest known natural material.",
-        "isTrue": true,
-        "explanation": "Diamonds are rated 10 on the Mohs scale of mineral hardness, making them the hardest naturally occurring substance on Earth."
-    },
-    {
-        "question": "Sound travels faster in a vacuum than in air.",
-        "isTrue": false,
-        "explanation": "Sound requires a medium (like air, water, or solids) to travel. It cannot travel in a vacuum because there are no particles to transmit the vibrations."
-    },
-    {
-        "question": "The chemical symbol for gold is Go.",
-        "isTrue": false,
-        "explanation": "The chemical symbol for gold is Au, derived from its Latin name 'aurum'. 'Go' is not a valid chemical symbol."
-    },
-    {
-        "question": "Photosynthesis is the process plants use to convert light into energy.",
-        "isTrue": true,
-        "explanation": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll, converting light energy into chemical energy."
-    },
-    {
-        "question": "Gravity is a force that attracts objects with mass towards each other.",
-        "isTrue": true,
-        "explanation": "Gravity is one of the four fundamental forces of nature. It's the force that pulls objects with mass or energy towards each other."
-    },
-    {
-        "question": "DNA is a single helix structure.",
-        "isTrue": false,
-        "explanation": "DNA (Deoxyribonucleic Acid) is famously known for its double helix structure, resembling a twisted ladder. RNA is typically single-stranded."
-    },
-    {
-        "question": "Electrons orbit the nucleus of an atom.",
-        "isTrue": true,
-        "explanation": "Electrons are negatively charged particles that rapidly move around the positively charged nucleus of an atom in electron shells or orbitals."
-    },
-    {
-        "question": "The Earth has a solid outer core.",
-        "isTrue": false,
-        "explanation": "The Earth's outer core is a liquid layer primarily composed of iron and nickel, while the inner core is solid."
-    },
-    {
-        "question": "Humans breathe in carbon dioxide and breathe out oxygen.",
-        "isTrue": false,
-        "explanation": "Humans breathe in oxygen and breathe out carbon dioxide as a waste product of cellular respiration."
-    },
-    {
-        "question": "The speed of light is constant in a vacuum.",
-        "isTrue": true,
-        "explanation": "The speed of light in a vacuum (approximately 299,792,458 meters per second) is a fundamental physical constant and is the same for all observers, regardless of their motion."
-    },
-    {
-        "question": "Metals are generally good conductors of electricity.",
-        "isTrue": true,
-        "explanation": "Metals have free-moving electrons that allow them to conduct electricity and heat efficiently."
-    },
-    {
-        "question": "All planets in our solar system orbit the Sun in the same direction.",
-        "isTrue": true,
-        "explanation": "All eight planets in our solar system orbit the Sun in the same direction (counter-clockwise when viewed from above the Sun's North Pole), a remnant of the rotational direction of the protoplanetary disk they formed from."
-    },
-    {
-        "question": "A covalent bond involves the sharing of electrons between atoms.",
-        "isTrue": true,
-        "explanation": "A covalent bond is a chemical bond formed when two atoms share electrons, typically to achieve a stable electron configuration."
-    },
-    {
-        "question": "Protons have a negative charge.",
-        "isTrue": false,
-        "explanation": "Protons are positively charged subatomic particles found in the nucleus of an atom. Electrons are negatively charged."
-    },
-    {
-        "question": "The Moon generates its own light.",
-        "isTrue": false,
-        "explanation": "The Moon does not produce its own light; it reflects light from the Sun."
-    },
-    {
-        "question": "Rust is a form of oxidation.",
-        "isTrue": true,
-        "explanation": "Rust (iron oxide) is formed when iron or an alloy containing iron (like steel) is exposed to oxygen and moisture, a chemical reaction known as oxidation."
-    },
-    {
-        "question": "Bacteria are always harmful to humans.",
-        "isTrue": false,
-        "explanation": "While some bacteria cause diseases, many are beneficial to humans, aiding in digestion, producing vitamins, and playing vital roles in ecosystems."
-    },
-    {
-        "question": "The strongest muscle in the human body is the tongue.",
-        "isTrue": false,
-        "explanation": "The masseter (jaw muscle) is considered the strongest in terms of force, while the gluteus maximus (buttock muscle) is the largest and strongest in terms of power."
-    },
-    {
-        "question": "Mammals are warm-blooded animals.",
-        "isTrue": true,
-        "explanation": "Mammals are endothermic (warm-blooded) animals, meaning they can regulate their own body temperature internally."
-    },
-    {
-        "question": "The Earth's atmosphere is mostly nitrogen.",
-        "isTrue": true,
-        "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere, followed by oxygen at about 21%."
-    },
-    {
-        "question": "Magnetism is a form of energy.",
-        "isTrue": true,
-        "explanation": "Magnetism is a fundamental force, and magnetic fields store and transfer energy, for example, in electric generators or motors."
-    },
-    {
-        "question": "A liquid has a definite shape but not a definite volume.",
-        "isTrue": false,
-        "explanation": "A liquid has a definite volume but takes the shape of its container. A solid has both a definite shape and volume."
-    },
-    {
-        "question": "All living organisms are made up of cells.",
-        "isTrue": true,
-        "explanation": "The cell theory states that all known living organisms are made up of one or more cells, and that cells are the basic structural and functional unit of all known living organisms."
-    },
-    {
-        "question": "The Richter scale measures wind speed.",
-        "isTrue": false,
-        "explanation": "The Richter scale is used to measure the magnitude of earthquakes. Wind speed is typically measured using an anemometer or scales like the Beaufort scale."
-    },
-    {
-        "question": "Sound waves are transverse waves.",
-        "isTrue": false,
-        "explanation": "Sound waves are longitudinal waves, meaning the particles of the medium vibrate parallel to the direction of wave propagation. Light waves are transverse."
-    },
-    {
-        "question": "The human body contains 206 bones.",
-        "isTrue": true,
-        "explanation": "An adult human skeleton typically consists of 206 bones."
-    },
-    {
-        "question": "Light travels in straight lines.",
-        "isTrue": true,
-        "explanation": "In a uniform medium, light travels in straight lines. This principle is fundamental to geometrical optics."
-    },
-    {
-        "question": "The chemical symbol for water is H2O.",
-        "isTrue": true,
-        "explanation": "H2O is the chemical formula for water, indicating two hydrogen atoms and one oxygen atom."
-    },
-    {
-        "question": "The Earth's magnetic field protects us from solar radiation.",
-        "isTrue": true,
-        "explanation": "The Earth's magnetic field (magnetosphere) deflects most of the charged particles from the solar wind and cosmic rays, protecting life on Earth."
-    },
-    {
-        "question": "The human heart has four chambers.",
-        "isTrue": true,
-        "explanation": "The human heart has four chambers: two atria (upper chambers) and two ventricles (lower chambers)."
-    },
-    {
-        "question": "All atoms of an element have the same number of neutrons.",
-        "isTrue": false,
-        "explanation": "Atoms of the same element always have the same number of protons (atomic number), but they can have different numbers of neutrons. These variations are called isotopes."
-    },
-    {
-        "question": "Acids have a pH less than 7.",
-        "isTrue": true,
-        "explanation": "The pH scale ranges from 0 to 14. A pH less than 7 indicates acidity, 7 is neutral, and greater than 7 indicates alkalinity (basic)."
-    },
-    {
-        "question": "The largest organ in the human body is the liver.",
-        "isTrue": false,
-        "explanation": "The skin is the largest organ of the human body, both in terms of surface area and weight."
-    },
-    {
-        "question": "Energy can be created or destroyed.",
-        "isTrue": false,
-        "explanation": "The law of conservation of energy states that energy cannot be created or destroyed, but it can be transformed from one form to another."
-    },
-    {
-        "question": "A fossil is any preserved remains, impression, or trace of any once-living thing from a past geological age.",
-        "isTrue": true,
-        "explanation": "This is the definition of a fossil. They provide crucial evidence about past life on Earth."
-    },
-    {
-        "question": "The Big Bang Theory describes the origin of the universe.",
-        "isTrue": true,
-        "explanation": "The Big Bang Theory is the leading cosmological model for the observable universe from the earliest known periods through its subsequent large-scale evolution."
-    },
-    {
-        "question": "Chlorophyll makes plants green.",
-        "isTrue": true,
-        "explanation": "Chlorophyll is a green pigment found in plant chloroplasts that absorbs sunlight for photosynthesis, reflecting the green spectrum of light."
-    },
-    {
-        "question": "The process of evaporation turns a liquid into a gas.",
-        "isTrue": true,
-        "explanation": "Evaporation is a type of vaporization that occurs on the surface of a liquid as it changes into the gas phase."
-    },
-    {
-        "question": "Mars is known as the 'Red Planet'.",
-        "isTrue": true,
-        "explanation": "Mars is often called the Red Planet due to the presence of iron oxide (rust) on its surface, which gives it a reddish hue."
-    },
-    {
-        "question": "The human brain uses 20% of the body's total oxygen and calories.",
-        "isTrue": true,
-        "explanation": "Despite making up only about 2% of the body's weight, the brain is a highly active organ that consumes a significant portion of the body's energy and oxygen."
-    },
-    {
-        "question": "Insulators conduct heat and electricity well.",
-        "isTrue": false,
-        "explanation": "Insulators are materials that resist the flow of heat and electricity. Conductors, conversely, allow them to flow easily."
-    },
-    {
-        "question": "All stars are larger than our Sun.",
-        "isTrue": false,
-        "explanation": "Our Sun is considered an average-sized star. There are many stars much smaller (like red dwarfs) and much larger (like red giants and supergiants) than the Sun."
-    },
-    {
-        "question": "The scientific study of weather is called geology.",
-        "isTrue": false,
-        "explanation": "The scientific study of weather is called meteorology. Geology is the study of the Earth's physical structure and substance."
-    },
-    {
-        "question": "The Earth is perfectly round.",
-        "isTrue": false,
-        "explanation": "The Earth is an oblate spheroid, meaning it is slightly flattened at the poles and bulges at the equator due to its rotation."
-    },
-    {
-        "question": "Vaccines introduce a weakened or inactive form of a pathogen to stimulate immunity.",
-        "isTrue": true,
-        "explanation": "Vaccines work by exposing the immune system to a harmless version of a pathogen, allowing the body to develop antibodies and memory cells without causing illness."
-    },
-    {
-        "question": "The Earth's crust is the thickest layer.",
-        "isTrue": false,
-        "explanation": "The Earth's crust is the thinnest layer, ranging from about 5 km (3 miles) under the oceans to 70 km (43 miles) under continents. The mantle is much thicker."
-    },
-    {
-        "question": "The specific gravity of water is 1.",
-        "isTrue": true,
-        "explanation": "The specific gravity of a substance is its density compared to the density of a reference substance (usually water at 4°C). Since water is the reference, its specific gravity is 1."
-    },
-    {
-        "question": "The human eye has only one type of photoreceptor cell.",
-        "isTrue": false,
-        "explanation": "The human eye has two main types of photoreceptor cells: rods (for low light and peripheral vision) and cones (for color vision and fine detail)."
-    },
-    {
-        "question": "Sound travels faster in solids than in liquids or gases.",
-        "isTrue": true,
-        "explanation": "Sound waves travel by vibrating particles. Particles are generally more closely packed in solids than in liquids or gases, allowing vibrations to transmit more efficiently and quickly."
-    },
-    {
-        "question": "An asteroid is a small rocky body orbiting the Sun.",
-        "isTrue": true,
-        "explanation": "Asteroids are rocky, airless remnants left over from the early formation of our solar system."
-    },
-    {
-        "question": "The chemical formula for carbon dioxide is CO.",
-        "isTrue": false,
-        "explanation": "The chemical formula for carbon dioxide is CO2, meaning one carbon atom and two oxygen atoms. CO is carbon monoxide."
-    },
-    {
-        "question": "Genetics is the study of heredity.",
-        "isTrue": true,
-        "explanation": "Genetics is the branch of biology concerned with the study of genes, genetic variation, and heredity in living organisms."
-    },
-    {
-        "question": "Neutrons have a positive charge.",
-        "isTrue": false,
-        "explanation": "Neutrons are neutral subatomic particles, meaning they have no electrical charge. Protons are positive, and electrons are negative."
-    },
-    {
-        "question": "The boiling point of water decreases at higher altitudes.",
-        "isTrue": true,
-        "explanation": "At higher altitudes, atmospheric pressure is lower. Water boils when its vapor pressure equals the surrounding atmospheric pressure, so with lower pressure, less heat is needed."
-    },
-    {
-        "question": "The human nose can distinguish about 10,000 different scents.",
-        "isTrue": false,
-        "explanation": "Recent research suggests the human nose can distinguish over a trillion different scents, far exceeding earlier estimates."
-    },
-    {
-        "question": "The Earth completes one rotation on its axis in 24 hours.",
-        "isTrue": true,
-        "explanation": "One full rotation of the Earth on its axis relative to the Sun defines a solar day, which is approximately 24 hours."
-    },
-    {
-        "question": "Absolute zero is the lowest possible temperature.",
-        "isTrue": true,
-        "explanation": "Absolute zero (0 Kelvin or -273.15°C) is the theoretical lowest limit of the thermodynamic temperature scale, where particles have the minimum possible kinetic energy."
-    },
-    {
-        "question": "The Sun is a planet.",
-        "isTrue": false,
-        "explanation": "The Sun is a star, a massive ball of hot plasma sustained by nuclear fusion. Planets orbit stars."
-    },
-    {
-        "question": "Pluto is classified as a planet.",
-        "isTrue": false,
-        "explanation": "In 2006, the International Astronomical Union reclassified Pluto as a dwarf planet, as it has not cleared its orbit of other debris."
-    },
-    {
-        "question": "Friction is a force that opposes motion.",
-        "isTrue": true,
-        "explanation": "Friction is a force that resists the relative motion or tendency to such motion of two surfaces in contact."
-    },
-    {
-        "question": "The Moon causes tides on Earth.",
-        "isTrue": true,
-        "explanation": "The gravitational pull of the Moon, and to a lesser extent the Sun, creates bulges of water on opposite sides of the Earth, leading to tides."
-    },
-    {
-        "question": "Antibiotics are effective against viruses.",
-        "isTrue": false,
-        "explanation": "Antibiotics target and kill bacteria, but they are ineffective against viruses. Antivirals are used to treat viral infections."
-    },
-    {
-        "question": "A prism splits white light into its component colors.",
-        "isTrue": true,
-        "explanation": "A prism disperses white light into its spectrum of colors (red, orange, yellow, green, blue, indigo, violet) because different wavelengths of light bend at slightly different angles as they pass through the prism."
-    },
-    {
-        "question": "The atmosphere of Venus is primarily composed of oxygen.",
-        "isTrue": false,
-        "explanation": "The atmosphere of Venus is predominantly carbon dioxide (about 96.5%), with significant amounts of nitrogen and trace gases, creating an extreme greenhouse effect."
-    },
-    {
-        "question": "Humans have a natural ability to see in complete darkness.",
-        "isTrue": false,
-        "explanation": "Humans cannot see in complete darkness. Vision requires light. Our eyes can adapt to very low light conditions, but not absolute darkness."
-    },
-    {
-        "question": "The speed of sound in air at room temperature is approximately 343 meters per second.",
-        "isTrue": true,
-        "explanation": "At 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second (1,125 feet per second)."
-    },
-    {
-        "question": "All plants produce flowers.",
-        "isTrue": false,
-        "explanation": "Many plants, like conifers (pines, firs), ferns, and mosses, reproduce without producing flowers. Flowering plants are called angiosperms."
-    },
-    {
-        "question": "The strongest natural magnet is magnetite.",
-        "isTrue": true,
-        "explanation": "Magnetite is the most magnetic of all the naturally occurring minerals on Earth."
-    },
-    {
-        "question": "A virus is a living organism.",
-        "isTrue": false,
-        "explanation": "Viruses are often considered on the borderline of living organisms. They require a host cell to replicate and do not have their own cellular machinery or metabolism."
-    },
-    {
-        "question": "The Earth's core is primarily made of iron and nickel.",
-        "isTrue": true,
-        "explanation": "The Earth's core, both the liquid outer core and the solid inner core, is predominantly composed of iron and nickel alloys."
-    },
-    {
-        "question": "The human tongue has specific regions for tasting sweet, sour, salty, and bitter.",
-        "isTrue": false,
-        "explanation": "The concept of a 'tongue map' is a myth. All taste buds, distributed across the entire tongue, can detect all five basic tastes (sweet, sour, salty, bitter, and umami)."
-    },
-    {
-        "question": "An earthquake is caused by the sudden release of energy in the Earth's crust.",
-        "isTrue": true,
-        "explanation": "Earthquakes are caused by the sudden release of energy accumulated in the Earth's lithosphere, which results in seismic waves."
-    },
-    {
-        "question": "Sound cannot travel through water.",
-        "isTrue": false,
-        "explanation": "Sound travels very well through water, actually much faster and further than in air. Sonar technology relies on this property."
-    },
-    {
-        "question": "The human body has more bones at birth than in adulthood.",
-        "isTrue": true,
-        "explanation": "Babies are born with around 300 bones. As they grow, some bones fuse together, resulting in 206 bones in the adult skeleton."
-    },
-    {
-        "question": "The chemical symbol for lead is Ld.",
-        "isTrue": false,
-        "explanation": "The chemical symbol for lead is Pb, derived from its Latin name 'plumbum'."
-    },
-    {
-        "question": "Convection involves heat transfer through the movement of fluids.",
-        "isTrue": true,
-        "explanation": "Convection is the process of heat transfer in fluids (liquids or gases) by the movement of the fluid itself, carrying thermal energy."
-    },
-    {
-        "question": "The Earth's ozone layer protects us from harmful ultraviolet radiation.",
-        "isTrue": true,
-        "explanation": "The ozone layer, a region in the Earth's stratosphere, absorbs most of the Sun's harmful ultraviolet (UV) radiation."
-    },
-    {
-        "question": "The human brain uses glucose as its primary energy source.",
-        "isTrue": true,
-        "explanation": "The brain relies almost exclusively on glucose (a simple sugar) for its energy needs to function properly."
-    },
-    {
-        "question": "All types of radiation are harmful to humans.",
-        "isTrue": false,
-        "explanation": "While ionizing radiation can be harmful, non-ionizing radiation (like visible light, radio waves, and microwaves used in everyday devices) is generally not harmful at normal exposure levels."
-    },
-    {
-        "question": "The study of rocks is called biology.",
-        "isTrue": false,
-        "explanation": "The study of rocks is called petrology, a branch of geology. Biology is the study of living organisms."
-    },
-    {
-        "question": "The human body can produce its own vitamin C.",
-        "isTrue": false,
-        "explanation": "Humans are among the few mammals (along with guinea pigs and some primates) that cannot synthesize vitamin C internally and must obtain it from their diet."
-    },
-    {
-        "question": "A battery converts chemical energy into electrical energy.",
-        "isTrue": true,
-        "explanation": "Batteries store chemical energy and convert it into electrical energy through electrochemical reactions, providing power to devices."
-    },
-    {
-        "question": "The Earth is the largest planet in our solar system.",
-        "isTrue": false,
-        "explanation": "Jupiter is the largest planet in our solar system, followed by Saturn, Uranus, and Neptune. Earth is the fifth largest."
-    },
-    {
-        "question": "Fungi are a type of plant.",
-        "isTrue": false,
-        "explanation": "Fungi belong to their own biological kingdom (Kingdom Fungi), separate from plants (Kingdom Plantae) and animals (Kingdom Animalia)."
-    },
-    {
-        "question": "The process of nuclear fission involves the splitting of an atomic nucleus.",
-        "isTrue": true,
-        "explanation": "Nuclear fission is a nuclear reaction or a radioactive decay process in which the nucleus of an atom splits into two or more smaller, lighter nuclei."
-    },
-    {
-        "question": "The human eye has a blind spot.",
-        "isTrue": true,
-        "explanation": "The blind spot is an area on the retina where the optic nerve connects and there are no photoreceptor cells, meaning no image can be detected there."
-    },
-    {
-        "question": "The primary cause of the Earth's seasons is its distance from the Sun.",
-        "isTrue":
-
-
-
-  ]
+    "questions": [
+        {
+            "question": "The Earth orbits the Sun.",
+            "isTrue": true,
+            "explanation": "The Earth revolves around the Sun in an elliptical orbit. This movement, along with Earth's axial tilt, causes the seasons."
+        },
+        {
+            "question": "Water boils at 100 degrees Celsius at sea level.",
+            "isTrue": true,
+            "explanation": "At standard atmospheric pressure (sea level), the boiling point of pure water is precisely 100°C (212°F). This temperature changes with altitude and pressure."
+        },
+        {
+            "question": "Diamonds are the hardest known natural material.",
+            "isTrue": true,
+            "explanation": "Diamonds are rated 10 on the Mohs scale of mineral hardness, making them the hardest naturally occurring substance on Earth."
+        },
+        {
+            "question": "Sound travels faster in a vacuum than in air.",
+            "isTrue": false,
+            "explanation": "Sound requires a medium (like air, water, or solids) to travel. It cannot travel in a vacuum because there are no particles to transmit the vibrations."
+        },
+        {
+            "question": "The chemical symbol for gold is Go.",
+            "isTrue": false,
+            "explanation": "The chemical symbol for gold is Au, derived from its Latin name 'aurum'. 'Go' is not a valid chemical symbol."
+        },
+        {
+            "question": "Photosynthesis is the process plants use to convert light into energy.",
+            "isTrue": true,
+            "explanation": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll, converting light energy into chemical energy."
+        },
+        {
+            "question": "Gravity is a force that attracts objects with mass towards each other.",
+            "isTrue": true,
+            "explanation": "Gravity is one of the four fundamental forces of nature. It's the force that pulls objects with mass or energy towards each other."
+        },
+        {
+            "question": "DNA is a single helix structure.",
+            "isTrue": false,
+            "explanation": "DNA (Deoxyribonucleic Acid) is famously known for its double helix structure, resembling a twisted ladder. RNA is typically single-stranded."
+        },
+        {
+            "question": "Electrons orbit the nucleus of an atom.",
+            "isTrue": true,
+            "explanation": "Electrons are negatively charged particles that rapidly move around the positively charged nucleus of an atom in electron shells or orbitals."
+        },
+        {
+            "question": "The Earth has a solid outer core.",
+            "isTrue": false,
+            "explanation": "The Earth's outer core is a liquid layer primarily composed of iron and nickel, while the inner core is solid."
+        },
+        {
+            "question": "Humans breathe in carbon dioxide and breathe out oxygen.",
+            "isTrue": false,
+            "explanation": "Humans breathe in oxygen and breathe out carbon dioxide as a waste product of cellular respiration."
+        },
+        {
+            "question": "The speed of light is constant in a vacuum.",
+            "isTrue": true,
+            "explanation": "The speed of light in a vacuum (approximately 299,792,458 meters per second) is a fundamental physical constant and is the same for all observers, regardless of their motion."
+        },
+        {
+            "question": "Metals are generally good conductors of electricity.",
+            "isTrue": true,
+            "explanation": "Metals have free-moving electrons that allow them to conduct electricity and heat efficiently."
+        },
+        {
+            "question": "All planets in our solar system orbit the Sun in the same direction.",
+            "isTrue": true,
+            "explanation": "All eight planets in our solar system orbit the Sun in the same direction (counter-clockwise when viewed from above the Sun's North Pole), a remnant of the rotational direction of the protoplanetary disk they formed from."
+        },
+        {
+            "question": "A covalent bond involves the sharing of electrons between atoms.",
+            "isTrue": true,
+            "explanation": "A covalent bond is a chemical bond formed when two atoms share electrons, typically to achieve a stable electron configuration."
+        },
+        {
+            "question": "Protons have a negative charge.",
+            "isTrue": false,
+            "explanation": "Protons are positively charged subatomic particles found in the nucleus of an atom. Electrons are negatively charged."
+        },
+        {
+            "question": "The Moon generates its own light.",
+            "isTrue": false,
+            "explanation": "The Moon does not produce its own light; it reflects light from the Sun."
+        },
+        {
+            "question": "Rust is a form of oxidation.",
+            "isTrue": true,
+            "explanation": "Rust (iron oxide) is formed when iron or an alloy containing iron (like steel) is exposed to oxygen and moisture, a chemical reaction known as oxidation."
+        },
+        {
+            "question": "Bacteria are always harmful to humans.",
+            "isTrue": false,
+            "explanation": "While some bacteria cause diseases, many are beneficial to humans, aiding in digestion, producing vitamins, and playing vital roles in ecosystems."
+        },
+        {
+            "question": "The strongest muscle in the human body is the tongue.",
+            "isTrue": false,
+            "explanation": "The masseter (jaw muscle) is considered the strongest in terms of force, while the gluteus maximus (buttock muscle) is the largest and strongest in terms of power."
+        },
+        {
+            "question": "Mammals are warm-blooded animals.",
+            "isTrue": true,
+            "explanation": "Mammals are endothermic (warm-blooded) animals, meaning they can regulate their own body temperature internally."
+        },
+        {
+            "question": "The Earth's atmosphere is mostly nitrogen.",
+            "isTrue": true,
+            "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere, followed by oxygen at about 21%."
+        },
+        {
+            "question": "Magnetism is a form of energy.",
+            "isTrue": true,
+            "explanation": "Magnetism is a fundamental force, and magnetic fields store and transfer energy, for example, in electric generators or motors."
+        },
+        {
+            "question": "A liquid has a definite shape but not a definite volume.",
+            "isTrue": false,
+            "explanation": "A liquid has a definite volume but takes the shape of its container. A solid has both a definite shape and volume."
+        },
+        {
+            "question": "All living organisms are made up of cells.",
+            "isTrue": true,
+            "explanation": "The cell theory states that all known living organisms are made up of one or more cells, and that cells are the basic structural and functional unit of all known living organisms."
+        },
+        {
+            "question": "The Richter scale measures wind speed.",
+            "isTrue": false,
+            "explanation": "The Richter scale is used to measure the magnitude of earthquakes. Wind speed is typically measured using an anemometer or scales like the Beaufort scale."
+        },
+        {
+            "question": "Sound waves are transverse waves.",
+            "isTrue": false,
+            "explanation": "Sound waves are longitudinal waves, meaning the particles of the medium vibrate parallel to the direction of wave propagation. Light waves are transverse."
+        },
+        {
+            "question": "The human body contains 206 bones.",
+            "isTrue": true,
+            "explanation": "An adult human skeleton typically consists of 206 bones."
+        },
+        {
+            "question": "Light travels in straight lines.",
+            "isTrue": true,
+            "explanation": "In a uniform medium, light travels in straight lines. This principle is fundamental to geometrical optics."
+        },
+        {
+            "question": "The chemical symbol for water is H2O.",
+            "isTrue": true,
+            "explanation": "H2O is the chemical formula for water, indicating two hydrogen atoms and one oxygen atom."
+        },
+        {
+            "question": "The Earth's magnetic field protects us from solar radiation.",
+            "isTrue": true,
+            "explanation": "The Earth's magnetic field (magnetosphere) deflects most of the charged particles from the solar wind and cosmic rays, protecting life on Earth."
+        },
+        {
+            "question": "The human heart has four chambers.",
+            "isTrue": true,
+            "explanation": "The human heart has four chambers: two atria (upper chambers) and two ventricles (lower chambers)."
+        },
+        {
+            "question": "All atoms of an element have the same number of neutrons.",
+            "isTrue": false,
+            "explanation": "Atoms of the same element always have the same number of protons (atomic number), but they can have different numbers of neutrons. These variations are called isotopes."
+        },
+        {
+            "question": "Acids have a pH less than 7.",
+            "isTrue": true,
+            "explanation": "The pH scale ranges from 0 to 14. A pH less than 7 indicates acidity, 7 is neutral, and greater than 7 indicates alkalinity (basic)."
+        },
+        {
+            "question": "The largest organ in the human body is the liver.",
+            "isTrue": false,
+            "explanation": "The skin is the largest organ of the human body, both in terms of surface area and weight."
+        },
+        {
+            "question": "Energy can be created or destroyed.",
+            "isTrue": false,
+            "explanation": "The law of conservation of energy states that energy cannot be created or destroyed, but it can be transformed from one form to another."
+        },
+        {
+            "question": "A fossil is any preserved remains, impression, or trace of any once-living thing from a past geological age.",
+            "isTrue": true,
+            "explanation": "This is the definition of a fossil. They provide crucial evidence about past life on Earth."
+        },
+        {
+            "question": "The Big Bang Theory describes the origin of the universe.",
+            "isTrue": true,
+            "explanation": "The Big Bang Theory is the leading cosmological model for the observable universe from the earliest known periods through its subsequent large-scale evolution."
+        },
+        {
+            "question": "Chlorophyll makes plants green.",
+            "isTrue": true,
+            "explanation": "Chlorophyll is a green pigment found in plant chloroplasts that absorbs sunlight for photosynthesis, reflecting the green spectrum of light."
+        },
+        {
+            "question": "The process of evaporation turns a liquid into a gas.",
+            "isTrue": true,
+            "explanation": "Evaporation is a type of vaporization that occurs on the surface of a liquid as it changes into the gas phase."
+        },
+        {
+            "question": "Mars is known as the 'Red Planet'.",
+            "isTrue": true,
+            "explanation": "Mars is often called the Red Planet due to the presence of iron oxide (rust) on its surface, which gives it a reddish hue."
+        },
+        {
+            "question": "The human brain uses 20% of the body's total oxygen and calories.",
+            "isTrue": true,
+            "explanation": "Despite making up only about 2% of the body's weight, the brain is a highly active organ that consumes a significant portion of the body's energy and oxygen."
+        },
+        {
+            "question": "Insulators conduct heat and electricity well.",
+            "isTrue": false,
+            "explanation": "Insulators are materials that resist the flow of heat and electricity. Conductors, conversely, allow them to flow easily."
+        },
+        {
+            "question": "All stars are larger than our Sun.",
+            "isTrue": false,
+            "explanation": "Our Sun is considered an average-sized star. There are many stars much smaller (like red dwarfs) and much larger (like red giants and supergiants) than the Sun."
+        },
+        {
+            "question": "The scientific study of weather is called geology.",
+            "isTrue": false,
+            "explanation": "The scientific study of weather is called meteorology. Geology is the study of the Earth's physical structure and substance."
+        },
+        {
+            "question": "The Earth is perfectly round.",
+            "isTrue": false,
+            "explanation": "The Earth is an oblate spheroid, meaning it is slightly flattened at the poles and bulges at the equator due to its rotation."
+        },
+        {
+            "question": "Vaccines introduce a weakened or inactive form of a pathogen to stimulate immunity.",
+            "isTrue": true,
+            "explanation": "Vaccines work by exposing the immune system to a harmless version of a pathogen, allowing the body to develop antibodies and memory cells without causing illness."
+        },
+        {
+            "question": "The Earth's crust is the thickest layer.",
+            "isTrue": false,
+            "explanation": "The Earth's crust is the thinnest layer, ranging from about 5 km (3 miles) under the oceans to 70 km (43 miles) under continents. The mantle is much thicker."
+        },
+        {
+            "question": "The specific gravity of water is 1.",
+            "isTrue": true,
+            "explanation": "The specific gravity of a substance is its density compared to the density of a reference substance (usually water at 4°C). Since water is the reference, its specific gravity is 1."
+        },
+        {
+            "question": "The human eye has only one type of photoreceptor cell.",
+            "isTrue": false,
+            "explanation": "The human eye has two main types of photoreceptor cells: rods (for low light and peripheral vision) and cones (for color vision and fine detail)."
+        },
+        {
+            "question": "Sound travels faster in solids than in liquids or gases.",
+            "isTrue": true,
+            "explanation": "Sound waves travel by vibrating particles. Particles are generally more closely packed in solids than in liquids or gases, allowing vibrations to transmit more efficiently and quickly."
+        },
+        {
+            "question": "An asteroid is a small rocky body orbiting the Sun.",
+            "isTrue": true,
+            "explanation": "Asteroids are rocky, airless remnants left over from the early formation of our solar system."
+        },
+        {
+            "question": "The chemical formula for carbon dioxide is CO.",
+            "isTrue": false,
+            "explanation": "The chemical formula for carbon dioxide is CO2, meaning one carbon atom and two oxygen atoms. CO is carbon monoxide."
+        },
+        {
+            "question": "Genetics is the study of heredity.",
+            "isTrue": true,
+            "explanation": "Genetics is the branch of biology concerned with the study of genes, genetic variation, and heredity in living organisms."
+        },
+        {
+            "question": "Neutrons have a positive charge.",
+            "isTrue": false,
+            "explanation": "Neutrons are neutral subatomic particles, meaning they have no electrical charge. Protons are positive, and electrons are negative."
+        },
+        {
+            "question": "The boiling point of water decreases at higher altitudes.",
+            "isTrue": true,
+            "explanation": "At higher altitudes, atmospheric pressure is lower. Water boils when its vapor pressure equals the surrounding atmospheric pressure, so with lower pressure, less heat is needed."
+        },
+        {
+            "question": "The human nose can distinguish about 10,000 different scents.",
+            "isTrue": false,
+            "explanation": "Recent research suggests the human nose can distinguish over a trillion different scents, far exceeding earlier estimates."
+        },
+        {
+            "question": "The Earth completes one rotation on its axis in 24 hours.",
+            "isTrue": true,
+            "explanation": "One full rotation of the Earth on its axis relative to the Sun defines a solar day, which is approximately 24 hours."
+        },
+        {
+            "question": "Absolute zero is the lowest possible temperature.",
+            "isTrue": true,
+            "explanation": "Absolute zero (0 Kelvin or -273.15°C) is the theoretical lowest limit of the thermodynamic temperature scale, where particles have the minimum possible kinetic energy."
+        },
+        {
+            "question": "The Sun is a planet.",
+            "isTrue": false,
+            "explanation": "The Sun is a star, a massive ball of hot plasma sustained by nuclear fusion. Planets orbit stars."
+        },
+        {
+            "question": "Pluto is classified as a planet.",
+            "isTrue": false,
+            "explanation": "In 2006, the International Astronomical Union reclassified Pluto as a dwarf planet, as it has not cleared its orbit of other debris."
+        },
+        {
+            "question": "Friction is a force that opposes motion.",
+            "isTrue": true,
+            "explanation": "Friction is a force that resists the relative motion or tendency to such motion of two surfaces in contact."
+        },
+        {
+            "question": "The Moon causes tides on Earth.",
+            "isTrue": true,
+            "explanation": "The gravitational pull of the Moon, and to a lesser extent the Sun, creates bulges of water on opposite sides of the Earth, leading to tides."
+        },
+        {
+            "question": "Antibiotics are effective against viruses.",
+            "isTrue": false,
+            "explanation": "Antibiotics target and kill bacteria, but they are ineffective against viruses. Antivirals are used to treat viral infections."
+        },
+        {
+            "question": "A prism splits white light into its component colors.",
+            "isTrue": true,
+            "explanation": "A prism disperses white light into its spectrum of colors (red, orange, yellow, green, blue, indigo, violet) because different wavelengths of light bend at slightly different angles as they pass through the prism."
+        },
+        {
+            "question": "The atmosphere of Venus is primarily composed of oxygen.",
+            "isTrue": false,
+            "explanation": "The atmosphere of Venus is predominantly carbon dioxide (about 96.5%), with significant amounts of nitrogen and trace gases, creating an extreme greenhouse effect."
+        },
+        {
+            "question": "Humans have a natural ability to see in complete darkness.",
+            "isTrue": false,
+            "explanation": "Humans cannot see in complete darkness. Vision requires light. Our eyes can adapt to very low light conditions, but not absolute darkness."
+        },
+        {
+            "question": "The speed of sound in air at room temperature is approximately 343 meters per second.",
+            "isTrue": true,
+            "explanation": "At 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second (1,125 feet per second)."
+        },
+        {
+            "question": "All plants produce flowers.",
+            "isTrue": false,
+            "explanation": "Many plants, like conifers (pines, firs), ferns, and mosses, reproduce without producing flowers. Flowering plants are called angiosperms."
+        },
+        {
+            "question": "The strongest natural magnet is magnetite.",
+            "isTrue": true,
+            "explanation": "Magnetite is the most magnetic of all the naturally occurring minerals on Earth."
+        },
+        {
+            "question": "A virus is a living organism.",
+            "isTrue": false,
+            "explanation": "Viruses are often considered on the borderline of living organisms. They require a host cell to replicate and do not have their own cellular machinery or metabolism."
+        },
+        {
+            "question": "The Earth's core is primarily made of iron and nickel.",
+            "isTrue": true,
+            "explanation": "The Earth's core, both the liquid outer core and the solid inner core, is predominantly composed of iron and nickel alloys."
+        },
+        {
+            "question": "The human tongue has specific regions for tasting sweet, sour, salty, and bitter.",
+            "isTrue": false,
+            "explanation": "The concept of a 'tongue map' is a myth. All taste buds, distributed across the entire tongue, can detect all five basic tastes (sweet, sour, salty, bitter, and umami)."
+        },
+        {
+            "question": "An earthquake is caused by the sudden release of energy in the Earth's crust.",
+            "isTrue": true,
+            "explanation": "Earthquakes are caused by the sudden release of energy accumulated in the Earth's lithosphere, which results in seismic waves."
+        },
+        {
+            "question": "Sound cannot travel through water.",
+            "isTrue": false,
+            "explanation": "Sound travels very well through water, actually much faster and further than in air. Sonar technology relies on this property."
+        },
+        {
+            "question": "The human body has more bones at birth than in adulthood.",
+            "isTrue": true,
+            "explanation": "Babies are born with around 300 bones. As they grow, some bones fuse together, resulting in 206 bones in the adult skeleton."
+        },
+        {
+            "question": "The chemical symbol for lead is Ld.",
+            "isTrue": false,
+            "explanation": "The chemical symbol for lead is Pb, derived from its Latin name 'plumbum'."
+        },
+        {
+            "question": "Convection involves heat transfer through the movement of fluids.",
+            "isTrue": true,
+            "explanation": "Convection is the process of heat transfer in fluids (liquids or gases) by the movement of the fluid itself, carrying thermal energy."
+        },
+        {
+            "question": "The Earth's ozone layer protects us from harmful ultraviolet radiation.",
+            "isTrue": true,
+            "explanation": "The ozone layer, a region in the Earth's stratosphere, absorbs most of the Sun's harmful ultraviolet (UV) radiation."
+        },
+        {
+            "question": "The human brain uses glucose as its primary energy source.",
+            "isTrue": true,
+            "explanation": "The brain relies almost exclusively on glucose (a simple sugar) for its energy needs to function properly."
+        },
+        {
+            "question": "All types of radiation are harmful to humans.",
+            "isTrue": false,
+            "explanation": "While ionizing radiation can be harmful, non-ionizing radiation (like visible light, radio waves, and microwaves used in everyday devices) is generally not harmful at normal exposure levels."
+        },
+        {
+            "question": "The study of rocks is called biology.",
+            "isTrue": false,
+            "explanation": "The study of rocks is called petrology, a branch of geology. Biology is the study of living organisms."
+        },
+        {
+            "question": "The human body can produce its own vitamin C.",
+            "isTrue": false,
+            "explanation": "Humans are among the few mammals (along with guinea pigs and some primates) that cannot synthesize vitamin C internally and must obtain it from their diet."
+        },
+        {
+            "question": "A battery converts chemical energy into electrical energy.",
+            "isTrue": true,
+            "explanation": "Batteries store chemical energy and convert it into electrical energy through electrochemical reactions, providing power to devices."
+        },
+        {
+            "question": "The Earth is the largest planet in our solar system.",
+            "isTrue": false,
+            "explanation": "Jupiter is the largest planet in our solar system, followed by Saturn, Uranus, and Neptune. Earth is the fifth largest."
+        },
+        {
+            "question": "Fungi are a type of plant.",
+            "isTrue": false,
+            "explanation": "Fungi belong to their own biological kingdom (Kingdom Fungi), separate from plants (Kingdom Plantae) and animals (Kingdom Animalia)."
+        },
+        {
+            "question": "The process of nuclear fission involves the splitting of an atomic nucleus.",
+            "isTrue": true,
+            "explanation": "Nuclear fission is a nuclear reaction or a radioactive decay process in which the nucleus of an atom splits into two or more smaller, lighter nuclei."
+        },
+        {
+            "question": "The human eye has a blind spot.",
+            "isTrue": true,
+            "explanation": "The blind spot is an area on the retina where the optic nerve connects and there are no photoreceptor cells, meaning no image can be detected there."
+        },
+        {
+            "question": "The primary cause of the Earth's seasons is its distance from the Sun.",
+            "isTrue": false,
+            "explanation": "The primary cause of Earth's seasons is the tilt of its axis relative to its orbit around the Sun, which changes the angle at which sunlight hits different parts of the Earth throughout the year."
+        },
+        {
+            "question": "Animals that eat both plants and meat are called herbivores.",
+            "isTrue": false,
+            "explanation": "Animals that eat both plants and meat are called omnivores. Herbivores eat only plants, and carnivores eat only meat."
+        },
+        {
+            "question": "The chemical symbol for sodium is Na.",
+            "isTrue": true,
+            "explanation": "The chemical symbol for sodium is Na, derived from its Latin name 'natrium'."
+        },
+        {
+            "question": "The human appendix has no known function.",
+            "isTrue": false,
+            "explanation": "While its exact function has been debated, recent research suggests the appendix may play a role in the immune system or serve as a 'safe house' for gut bacteria."
+        },
+        {
+            "question": "Lasers work by amplifying light.",
+            "isTrue": true,
+            "explanation": "LASER stands for Light Amplification by Stimulated Emission of Radiation. Lasers produce a highly concentrated beam of coherent light."
+        },
+        {
+            "question": "The deepest point in the Earth's oceans is the Mariana Trench.",
+            "isTrue": true,
+            "explanation": "The Mariana Trench, located in the western Pacific Ocean, contains the deepest known point in Earth's oceans, the Challenger Deep."
+        },
+        {
+            "question": "All matter is made up of atoms.",
+            "isTrue": true,
+            "explanation": "According to atomic theory, all ordinary matter is composed of atoms, which are the fundamental building blocks of chemical elements."
+        },
+        {
+            "question": "The human body produces vitamin D when exposed to sunlight.",
+            "isTrue": true,
+            "explanation": "When exposed to ultraviolet B (UVB) rays from sunlight, a form of cholesterol in the skin is converted into vitamin D."
+        },
+        {
+            "question": "Static electricity is a flow of electrons.",
+            "isTrue": false,
+            "explanation": "Static electricity is an imbalance of electric charges within or on the surface of a material. A flow of electrons is called electric current."
+        },
+        {
+            "question": "The lifespan of a red blood cell is approximately 120 days.",
+            "isTrue": true,
+            "explanation": "Red blood cells (erythrocytes) have a relatively short lifespan of about 100 to 120 days before they are removed from circulation and replaced."
+        },
+        {
+            "question": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape.",
+            "isTrue": true,
+            "explanation": "This is the defining characteristic of a black hole, a consequence of the immense gravitational force caused by matter compressed into a tiny space."
+        },
+        {
+            "question": "The process of diffusion involves particles moving from an area of higher concentration to lower concentration.",
+            "isTrue": true,
+            "explanation": "Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, driven by the random motion of particles."
+        }
+    ]
 }
