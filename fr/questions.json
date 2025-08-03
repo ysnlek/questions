@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "question": "La Terre orbite autour du Soleil.",
+            "isTrue": true,
+            "explanation": "La Terre tourne autour du Soleil sur une orbite elliptique. Ce mouvement, ainsi que l'inclinaison de l'axe de la Terre, sont à l'origine des saisons."
+        },
+        {
+            "question": "L'eau bout à 100 degrés Celsius au niveau de la mer.",
+            "isTrue": true,
+            "explanation": "À la pression atmosphérique standard (niveau de la mer), le point d'ébullition de l'eau pure est précisément de 100°C (212°F). Cette température varie avec l'altitude et la pression."
+        },
+        {
+            "question": "Les diamants sont le matériau naturel le plus dur connu.",
+            "isTrue": true,
+            "explanation": "Les diamants sont classés 10 sur l'échelle de Mohs de dureté minérale, ce qui en fait la substance naturelle la plus dure sur Terre."
+        },
+        {
+            "question": "Le son se propage plus vite dans le vide que dans l'air.",
+            "isTrue": false,
+            "explanation": "Le son a besoin d'un milieu (comme l'air, l'eau ou les solides) pour se propager. Il ne peut pas se propager dans le vide car il n'y a pas de particules pour transmettre les vibrations."
+        },
+        {
+            "question": "Le symbole chimique de l'or est Go.",
+            "isTrue": false,
+            "explanation": "Le symbole chimique de l'or est Au, dérivé de son nom latin 'aurum'. 'Go' n'est pas un symbole chimique valide."
+        },
+        {
+            "question": "La photosynthèse est le processus que les plantes utilisent pour convertir la lumière en énergie.",
+            "isTrue": true,
+            "explanation": "La photosynthèse est le processus par lequel les plantes vertes et certains autres organismes utilisent la lumière du soleil pour synthétiser des aliments à l'aide de la chlorophylle, convertissant l'énergie lumineuse en énergie chimique."
+        },
+        {
+            "question": "La gravité est une force qui attire les objets dotés d'une masse les uns vers les autres.",
+            "isTrue": true,
+            "explanation": "La gravité est l'une des quatre forces fondamentales de la nature. C'est la force qui attire les objets ayant une masse ou de l'énergie les uns vers les autres."
+        },
+        {
+            "question": "L'ADN est une structure en simple hélice.",
+            "isTrue": false,
+            "explanation": "L'ADN (acide désoxyribonucléique) est célèbre pour sa structure en double hélice, ressemblant à une échelle torsadée. L'ARN est généralement simple brin."
+        },
+        {
+            "question": "Les électrons orbitent autour du noyau d'un atome.",
+            "isTrue": true,
+            "explanation": "Les électrons sont des particules chargées négativement qui se déplacent rapidement autour du noyau positivement chargé d'un atome dans des couches ou orbitales électroniques."
+        },
+        {
+            "question": "Le noyau externe de la Terre est solide.",
+            "isTrue": false,
+            "explanation": "Le noyau externe de la Terre est une couche liquide principalement composée de fer et de nickel, tandis que le noyau interne est solide."
+        },
+        {
+            "question": "Les humains inspirent du dioxyde de carbone et expirent de l'oxygène.",
+            "isTrue": false,
+            "explanation": "Les humains inspirent de l'oxygène et expirent du dioxyde de carbone, un produit de déchet de la respiration cellulaire."
+        },
+        {
+            "question": "La vitesse de la lumière est constante dans le vide.",
+            "isTrue": true,
+            "explanation": "La vitesse de la lumière dans le vide (environ 299 792 458 mètres par seconde) est une constante physique fondamentale et est la même pour tous les observateurs, quelle que soit leur mouvement."
+        },
+        {
+            "question": "Les métaux sont généralement de bons conducteurs d'électricité.",
+            "isTrue": true,
+            "explanation": "Les métaux ont des électrons libres qui leur permettent de conduire efficacement l'électricité et la chaleur."
+        },
+        {
+            "question": "Toutes les planètes de notre système solaire orbitent autour du Soleil dans la même direction.",
+            "isTrue": true,
+            "explanation": "Les huit planètes de notre système solaire orbitent toutes autour du Soleil dans la même direction (dans le sens inverse des aiguilles d'une montre lorsqu'on les regarde depuis le pôle Nord du Soleil), un vestige de la direction de rotation du disque protoplanétaire dont elles sont issues."
+        },
+        {
+            "question": "Une liaison covalente implique le partage d'électrons entre les atomes.",
+            "isTrue": true,
+            "explanation": "Une liaison covalente est une liaison chimique formée lorsque deux atomes partagent des électrons, généralement pour atteindre une configuration électronique stable."
+        },
+        {
+            "question": "Les protons ont une charge négative.",
+            "isTrue": false,
+            "explanation": "Les protons sont des particules subatomiques chargées positivement que l'on trouve dans le noyau d'un atome. Les électrons sont chargés négativement."
+        },
+        {
+            "question": "La Lune génère sa propre lumière.",
+            "isTrue": false,
+            "explanation": "La Lune ne produit pas sa propre lumière ; elle réfléchit la lumière du Soleil."
+        },
+        {
+            "question": "La rouille est une forme d'oxydation.",
+            "isTrue": true,
+            "explanation": "La rouille (oxyde de fer) se forme lorsque le fer ou un alliage contenant du fer (comme l'acier) est exposé à l'oxygène et à l'humidité, une réaction chimique connue sous le nom d'oxydation."
+        },
+        {
+            "question": "Les bactéries sont toujours nuisibles aux humains.",
+            "isTrue": false,
+            "explanation": "Bien que certaines bactéries provoquent des maladies, beaucoup sont bénéfiques pour les humains, aidant à la digestion, produisant des vitamines et jouant des rôles vitaux dans les écosystèmes."
+        },
+        {
+            "question": "Le muscle le plus puissant du corps humain est la langue.",
+            "isTrue": false,
+            "explanation": "Le masséter (muscle de la mâchoire) est considéré comme le plus puissant en termes de force, tandis que le grand fessier (muscle de la fesse) est le plus grand et le plus puissant en termes de puissance."
+        },
+        {
+            "question": "Les mammifères sont des animaux à sang chaud.",
+            "isTrue": true,
+            "explanation": "Les mammifères sont des animaux endothermes (à sang chaud), ce qui signifie qu'ils peuvent réguler leur propre température corporelle en interne."
+        },
+        {
+            "question": "L'atmosphère terrestre est principalement composée d'azote.",
+            "isTrue": true,
+            "explanation": "L'azote représente environ 78 % de l'atmosphère terrestre, suivi de l'oxygène à environ 21 %."
+        },
+        {
+            "question": "Le magnétisme est une forme d'énergie.",
+            "isTrue": true,
+            "explanation": "Le magnétisme est une force fondamentale, et les champs magnétiques stockent et transfèrent de l'énergie, par exemple dans les générateurs ou les moteurs électriques."
+        },
+        {
+            "question": "Un liquide a une forme définie mais pas un volume défini.",
+            "isTrue": false,
+            "explanation": "Un liquide a un volume défini mais prend la forme de son contenant. Un solide a à la fois une forme et un volume définis."
+        },
+        {
+            "question": "Tous les organismes vivants sont constitués de cellules.",
+            "isTrue": true,
+            "explanation": "La théorie cellulaire stipule que tous les organismes vivants connus sont constitués d'une ou plusieurs cellules, et que les cellules sont l'unité structurelle et fonctionnelle de base de tous les organismes vivants connus."
+        },
+        {
+            "question": "L'échelle de Richter mesure la vitesse du vent.",
+            "isTrue": false,
+            "explanation": "L'échelle de Richter est utilisée pour mesurer la magnitude des tremblements de terre. La vitesse du vent est généralement mesurée à l'aide d'un anémomètre ou d'échelles comme l'échelle de Beaufort."
+        },
+        {
+            "question": "Les ondes sonores sont des ondes transversales.",
+            "isTrue": false,
+            "explanation": "Les ondes sonores sont des ondes longitudinales, ce qui signifie que les particules du milieu vibrent parallèlement à la direction de propagation de l'onde. Les ondes lumineuses sont transversales."
+        },
+        {
+            "question": "Le corps humain contient 206 os.",
+            "isTrue": true,
+            "explanation": "Un squelette humain adulte est généralement composé de 206 os."
+        },
+        {
+            "question": "La lumière voyage en lignes droites.",
+            "isTrue": true,
+            "explanation": "Dans un milieu uniforme, la lumière voyage en lignes droites. Ce principe est fondamental pour l'optique géométrique."
+        },
+        {
+            "question": "Le symbole chimique de l'eau est H2O.",
+            "isTrue": true,
+            "explanation": "H2O est la formule chimique de l'eau, indiquant deux atomes d'hydrogène et un atome d'oxygène."
+        },
+        {
+            "question": "Le champ magnétique de la Terre nous protège du rayonnement solaire.",
+            "isTrue": true,
+            "explanation": "Le champ magnétique de la Terre (magnétosphère) dévie la plupart des particules chargées du vent solaire et des rayons cosmiques, protégeant ainsi la vie sur Terre."
+        },
+        {
+            "question": "Le cœur humain a quatre cavités.",
+            "isTrue": true,
+            "explanation": "Le cœur humain a quatre cavités : deux oreillettes (cavités supérieures) et deux ventricules (cavités inférieures)."
+        },
+        {
+            "question": "Tous les atomes d'un élément ont le même nombre de neutrons.",
+            "isTrue": false,
+            "explanation": "Les atomes du même élément ont toujours le même nombre de protons (numéro atomique), mais ils peuvent avoir un nombre différent de neutrons. Ces variations sont appelées isotopes."
+        },
+        {
+            "question": "Les acides ont un pH inférieur à 7.",
+            "isTrue": true,
+            "explanation": "L'échelle de pH va de 0 à 14. Un pH inférieur à 7 indique une acidité, 7 est neutre, et supérieur à 7 indique une alcalinité (basique)."
+        },
+        {
+            "question": "Le plus grand organe du corps humain est le foie.",
+            "isTrue": false,
+            "explanation": "La peau est le plus grand organe du corps humain, à la fois en termes de surface et de poids."
+        },
+        {
+            "question": "L'énergie peut être créée ou détruite.",
+            "isTrue": false,
+            "explanation": "La loi de conservation de l'énergie stipule que l'énergie ne peut être ni créée ni détruite, mais elle peut être transformée d'une forme à une autre."
+        },
+        {
+            "question": "Un fossile est tout reste, impression ou trace préservé de toute chose ayant vécu dans une ère géologique passée.",
+            "isTrue": true,
+            "explanation": "C'est la définition d'un fossile. Ils fournissent des preuves cruciales sur la vie passée sur Terre."
+        },
+        {
+            "question": "La théorie du Big Bang décrit l'origine de l'univers.",
+            "isTrue": true,
+            "explanation": "La théorie du Big Bang est le principal modèle cosmologique pour l'univers observable depuis les premières périodes connues jusqu'à son évolution à grande échelle ultérieure."
+        },
+        {
+            "question": "La chlorophylle rend les plantes vertes.",
+            "isTrue": true,
+            "explanation": "La chlorophylle est un pigment vert présent dans les chloroplastes des plantes qui absorbe la lumière du soleil pour la photosynthèse, réfléchissant le spectre vert de la lumière."
+        },
+        {
+            "question": "Le processus d'évaporation transforme un liquide en gaz.",
+            "isTrue": true,
+            "explanation": "L'évaporation est un type de vaporisation qui se produit à la surface d'un liquide lorsqu'il passe à la phase gazeuse."
+        },
+        {
+            "question": "Mars est connue sous le nom de « Planète Rouge ».",
+            "isTrue": true,
+            "explanation": "Mars est souvent appelée la Planète Rouge en raison de la présence d'oxyde de fer (rouille) à sa surface, ce qui lui donne une teinte rougeâtre."
+        },
+        {
+            "question": "Le cerveau humain utilise 20 % de l'oxygène et des calories totales du corps.",
+            "isTrue": true,
+            "explanation": "Bien qu'il ne représente qu'environ 2 % du poids corporel, le cerveau est un organe très actif qui consomme une part importante de l'énergie et de l'oxygène du corps."
+        },
+        {
+            "question": "Les isolants conduisent bien la chaleur et l'électricité.",
+            "isTrue": false,
+            "explanation": "Les isolants sont des matériaux qui résistent au flux de chaleur et d'électricité. Les conducteurs, inversement, leur permettent de circuler facilement."
+        },
+        {
+            "question": "Toutes les étoiles sont plus grandes que notre Soleil.",
+            "isTrue": false,
+            "explanation": "Notre Soleil est considéré comme une étoile de taille moyenne. Il existe de nombreuses étoiles beaucoup plus petites (comme les naines rouges) et beaucoup plus grandes (comme les géantes rouges et les supergéantes) que le Soleil."
+        },
+        {
+            "question": "L'étude scientifique du temps est appelée géologie.",
+            "isTrue": false,
+            "explanation": "L'étude scientifique du temps est appelée météorologie. La géologie est l'étude de la structure physique et de la substance de la Terre."
+        },
+        {
+            "question": "La Terre est parfaitement ronde.",
+            "isTrue": false,
+            "explanation": "La Terre est un sphéroïde oblate, ce qui signifie qu'elle est légèrement aplatie aux pôles et bombée à l'équateur en raison de sa rotation."
+        },
+        {
+            "question": "Les vaccins introduisent une forme affaiblie ou inactive d'un agent pathogène pour stimuler l'immunité.",
+            "isTrue": true,
+            "explanation": "Les vaccins fonctionnent en exposant le système immunitaire à une version inoffensive d'un agent pathogène, permettant au corps de développer des anticorps et des cellules mémoire sans provoquer de maladie."
+        },
+        {
+            "question": "La croûte terrestre est la couche la plus épaisse.",
+            "isTrue": false,
+            "explanation": "La croûte terrestre est la couche la plus fine, allant d'environ 5 km (3 miles) sous les océans à 70 km (43 miles) sous les continents. Le manteau est beaucoup plus épais."
+        },
+        {
+            "question": "La densité relative de l'eau est de 1.",
+            "isTrue": true,
+            "explanation": "La densité relative d'une substance est sa densité par rapport à la densité d'une substance de référence (généralement l'eau à 4°C). Puisque l'eau est la référence, sa densité relative est de 1."
+        },
+        {
+            "question": "L'œil humain n'a qu'un seul type de cellule photoréceptrice.",
+            "isTrue": false,
+            "explanation": "L'œil humain a deux principaux types de cellules photoréceptrices : les bâtonnets (pour la faible lumière et la vision périphérique) et les cônes (pour la vision des couleurs et les détails fins)."
+        },
+        {
+            "question": "Le son se propage plus vite dans les solides que dans les liquides ou les gaz.",
+            "isTrue": true,
+            "explanation": "Les ondes sonores se propagent en faisant vibrer les particules. Les particules sont généralement plus étroitement tassées dans les solides que dans les liquides ou les gaz, ce qui permet aux vibrations de se transmettre plus efficacement et plus rapidement."
+        },
+        {
+            "question": "Un astéroïde est un petit corps rocheux orbitant autour du Soleil.",
+            "isTrue": true,
+            "explanation": "Les astéroïdes sont des restes rocheux et sans air de la formation précoce de notre système solaire."
+        },
+        {
+            "question": "La formule chimique du dioxyde de carbone est CO.",
+            "isTrue": false,
+            "explanation": "La formule chimique du dioxyde de carbone est CO2, ce qui signifie un atome de carbone et deux atomes d'oxygène. CO est le monoxyde de carbone."
+        },
+        {
+            "question": "La génétique est l'étude de l'hérédité.",
+            "isTrue": true,
+            "explanation": "La génétique est la branche de la biologie qui étudie les gènes, la variation génétique et l'hérédité chez les organismes vivants."
+        },
+        {
+            "question": "Les neutrons ont une charge positive.",
+            "isTrue": false,
+            "explanation": "Les neutrons sont des particules subatomiques neutres, ce qui signifie qu'ils n'ont pas de charge électrique. Les protons sont positifs et les électrons sont négatifs."
+        },
+        {
+            "question": "Le point d'ébullition de l'eau diminue aux altitudes plus élevées.",
+            "isTrue": true,
+            "explanation": "Aux altitudes plus élevées, la pression atmosphérique est plus faible. L'eau bout lorsque sa pression de vapeur est égale à la pression atmosphérique ambiante, donc avec une pression plus faible, moins de chaleur est nécessaire."
+        },
+        {
+            "question": "Le nez humain peut distinguer environ 10 000 odeurs différentes.",
+            "isTrue": false,
+            "explanation": "Des recherches récentes suggèrent que le nez humain peut distinguer plus d'un billion d'odeurs différentes, dépassant de loin les estimations antérieures."
+        },
+        {
+            "question": "La Terre effectue une rotation complète sur son axe en 24 heures.",
+            "isTrue": true,
+            "explanation": "Une rotation complète de la Terre sur son axe par rapport au Soleil définit un jour solaire, qui est d'environ 24 heures."
+        },
+        {
+            "question": "Le zéro absolu est la température la plus basse possible.",
+            "isTrue": true,
+            "explanation": "Le zéro absolu (0 Kelvin ou -273,15°C) est la limite théorique la plus basse de l'échelle de température thermodynamique, où les particules ont l'énergie cinétique minimale possible."
+        },
+        {
+            "question": "Le Soleil est une planète.",
+            "isTrue": false,
+            "explanation": "Le Soleil est une étoile, une énorme boule de plasma chaud maintenue par la fusion nucléaire. Les planètes orbitent autour des étoiles."
+        },
+        {
+            "question": "Pluton est classée comme une planète.",
+            "isTrue": false,
+            "explanation": "En 2006, l'Union Astronomique Internationale a reclassé Pluton comme une planète naine, car elle n'a pas dégagé son orbite des autres débris."
+        },
+        {
+            "question": "Le frottement est une force qui s'oppose au mouvement.",
+            "isTrue": true,
+            "explanation": "Le frottement est une force qui résiste au mouvement relatif ou à la tendance à un tel mouvement de deux surfaces en contact."
+        },
+        {
+            "question": "La Lune provoque les marées sur Terre.",
+            "isTrue": true,
+            "explanation": "L'attraction gravitationnelle de la Lune, et dans une moindre mesure du Soleil, crée des renflements d'eau sur les côtés opposés de la Terre, entraînant des marées."
+        },
+        {
+            "question": "Les antibiotiques sont efficaces contre les virus.",
+            "isTrue": false,
+            "explanation": "Les antibiotiques ciblent et tuent les bactéries, mais ils sont inefficaces contre les virus. Les antiviraux sont utilisés pour traiter les infections virales."
+        },
+        {
+            "question": "Un prisme divise la lumière blanche en ses couleurs composantes.",
+            "isTrue": true,
+            "explanation": "Un prisme disperse la lumière blanche en son spectre de couleurs (rouge, orange, jaune, vert, bleu, indigo, violet) parce que différentes longueurs d'onde de lumière se courbent à des angles légèrement différents lorsqu'elles traversent le prisme."
+        },
+        {
+            "question": "L'atmosphère de Vénus est principalement composée d'oxygène.",
+            "isTrue": false,
+            "explanation": "L'atmosphère de Vénus est principalement composée de dioxyde de carbone (environ 96,5 %), avec des quantités significatives d'azote et de gaz traces, créant un effet de serre extrême."
+        },
+        {
+            "question": "Les humains ont une capacité naturelle à voir dans l'obscurité complète.",
+            "isTrue": false,
+            "explanation": "Les humains ne peuvent pas voir dans l'obscurité complète. La vision nécessite de la lumière. Nos yeux peuvent s'adapter à des conditions de très faible luminosité, mais pas à l'obscurité absolue."
+        },
+        {
+            "question": "La vitesse du son dans l'air à température ambiante est d'environ 343 mètres par seconde.",
+            "isTrue": true,
+            "explanation": "À 20°C (68°F), la vitesse du son dans l'air sec est d'environ 343 mètres par seconde (1 125 pieds par seconde)."
+        },
+        {
+            "question": "Toutes les plantes produisent des fleurs.",
+            "isTrue": false,
+            "explanation": "De nombreuses plantes, comme les conifères (pins, sapins), les fougères et les mousses, se reproduisent sans produire de fleurs. Les plantes à fleurs sont appelées angiospermes."
+        },
+        {
+            "question": "L'aimant naturel le plus puissant est la magnétite.",
+            "isTrue": true,
+            "explanation": "La magnétite est le plus magnétique de tous les minéraux naturels présents sur Terre."
+        },
+        {
+            "question": "Un virus est un organisme vivant.",
+            "isTrue": false,
+            "explanation": "Les virus sont souvent considérés à la limite des organismes vivants. Ils ont besoin d'une cellule hôte pour se répliquer et n'ont pas leur propre machinerie cellulaire ou métabolisme."
+        },
+        {
+            "question": "Le noyau de la Terre est principalement composé de fer et de nickel.",
+            "isTrue": true,
+            "explanation": "Le noyau de la Terre, à la fois le noyau externe liquide et le noyau interne solide, est principalement composé d'alliages de fer et de nickel."
+        },
+        {
+            "question": "La langue humaine a des régions spécifiques pour goûter le sucré, l'acide, le salé et l'amer.",
+            "isTrue": false,
+            "explanation": "Le concept de « carte de la langue » est un mythe. Toutes les papilles gustatives, réparties sur toute la langue, peuvent détecter les cinq goûts de base (sucré, acide, salé, amer et umami)."
+        },
+        {
+            "question": "Un tremblement de terre est causé par la libération soudaine d'énergie dans la croûte terrestre.",
+            "isTrue": true,
+            "explanation": "Les tremblements de terre sont causés par la libération soudaine d'énergie accumulée dans la lithosphère terrestre, ce qui entraîne des ondes sismiques."
+        },
+        {
+            "question": "Le son ne peut pas voyager à travers l'eau.",
+            "isTrue": false,
+            "explanation": "Le son voyage très bien à travers l'eau, en fait beaucoup plus vite et plus loin que dans l'air. La technologie du sonar repose sur cette propriété."
+        },
+        {
+            "question": "Le corps humain a plus d'os à la naissance qu'à l'âge adulte.",
+            "isTrue": true,
+            "explanation": "Les bébés naissent avec environ 300 os. En grandissant, certains os fusionnent, ce qui donne 206 os dans le squelette adulte."
+        },
+        {
+            "question": "Le symbole chimique du plomb est Ld.",
+            "isTrue": false,
+            "explanation": "Le symbole chimique du plomb est Pb, dérivé de son nom latin 'plumbum'."
+        },
+        {
+            "question": "La convection implique le transfert de chaleur par le mouvement des fluides.",
+            "isTrue": true,
+            "explanation": "La convection est le processus de transfert de chaleur dans les fluides (liquides ou gaz) par le mouvement du fluide lui-même, transportant l'énergie thermique."
+        },
+        {
+            "question": "La couche d'ozone de la Terre nous protège des rayons ultraviolets nocifs.",
+            "isTrue": true,
+            "explanation": "La couche d'ozone, une région de la stratosphère terrestre, absorbe la plupart des rayons ultraviolets (UV) nocifs du Soleil."
+        },
+        {
+            "question": "Le cerveau humain utilise le glucose comme principale source d'énergie.",
+            "isTrue": true,
+            "explanation": "Le cerveau dépend presque exclusivement du glucose (un sucre simple) pour ses besoins énergétiques afin de fonctionner correctement."
+        },
+        {
+            "question": "Tous les types de rayonnement sont nocifs pour les humains.",
+            "isTrue": false,
+            "explanation": "Bien que les rayonnements ionisants puissent être nocifs, les rayonnements non ionisants (comme la lumière visible, les ondes radio et les micro-ondes utilisées dans les appareils quotidiens) ne sont généralement pas nocifs aux niveaux d'exposition normaux."
+        },
+        {
+            "question": "L'étude des roches est appelée biologie.",
+            "isTrue": false,
+            "explanation": "L'étude des roches est appelée pétrologie, une branche de la géologie. La biologie est l'étude des organismes vivants."
+        },
+        {
+            "question": "Le corps humain peut produire sa propre vitamine C.",
+            "isTrue": false,
+            "explanation": "Les humains font partie des rares mammifères (avec les cobayes et certains primates) qui ne peuvent pas synthétiser la vitamine C en interne et doivent l'obtenir de leur alimentation."
+        },
+        {
+            "question": "Une batterie convertit l'énergie chimique en énergie électrique.",
+            "isTrue": true,
+            "explanation": "Les batteries stockent l'énergie chimique et la convertissent en énergie électrique par des réactions électrochimiques, fournissant de l'énergie aux appareils."
+        },
+        {
+            "question": "La Terre est la plus grande planète de notre système solaire.",
+            "isTrue": false,
+            "explanation": "Jupiter est la plus grande planète de notre système solaire, suivie de Saturne, Uranus et Neptune. La Terre est la cinquième plus grande."
+        },
+        {
+            "question": "Les champignons sont un type de plante.",
+            "isTrue": false,
+            "explanation": "Les champignons appartiennent à leur propre règne biologique (Règne des Fungi), distinct des plantes (Règne des Plantae) et des animaux (Règne des Animalia)."
+        },
+        {
+            "question": "Le processus de fission nucléaire implique la division d'un noyau atomique.",
+            "isTrue": true,
+            "explanation": "La fission nucléaire est une réaction nucléaire ou un processus de désintégration radioactive au cours duquel le noyau d'un atome se divise en deux ou plusieurs noyaux plus petits et plus légers."
+        },
+        {
+            "question": "L'œil humain a un point aveugle.",
+            "isTrue": true,
+            "explanation": "Le point aveugle est une zone de la rétine où le nerf optique se connecte et où il n'y a pas de cellules photoréceptrices, ce qui signifie qu'aucune image ne peut y être détectée."
+        },
+        {
+            "question": "La principale cause des saisons de la Terre est sa distance par rapport au Soleil.",
+            "isTrue": false,
+            "explanation": "La principale cause des saisons de la Terre est l'inclinaison de son axe par rapport à son orbite autour du Soleil, ce qui modifie l'angle sous lequel la lumière du soleil frappe différentes parties de la Terre tout au long de l'année."
+        },
+        {
+            "question": "Les animaux qui mangent à la fois des plantes et de la viande sont appelés herbivores.",
+            "isTrue": false,
+            "explanation": "Les animaux qui mangent à la fois des plantes et de la viande sont appelés omnivores. Les herbivores ne mangent que des plantes, et les carnivores ne mangent que de la viande."
+        },
+        {
+            "question": "Le symbole chimique du sodium est Na.",
+            "isTrue": true,
+            "explanation": "Le symbole chimique du sodium est Na, dérivé de son nom latin 'natrium'."
+        },
+        {
+            "question": "L'appendice humain n'a aucune fonction connue.",
+            "isTrue": false,
+            "explanation": "Bien que sa fonction exacte ait été débattue, des recherches récentes suggèrent que l'appendice pourrait jouer un rôle dans le système immunitaire ou servir de « refuge » pour les bactéries intestinales."
+        },
+        {
+            "question": "Les lasers fonctionnent en amplifiant la lumière.",
+            "isTrue": true,
+            "explanation": "LASER signifie Light Amplification by Stimulated Emission of Radiation (Amplification de la lumière par émission stimulée de rayonnement). Les lasers produisent un faisceau de lumière cohérente hautement concentré."
+        },
+        {
+            "question": "Le point le plus profond des océans de la Terre est la fosse des Mariannes.",
+            "isTrue": true,
+            "explanation": "La fosse des Mariannes, située dans l'océan Pacifique occidental, contient le point le plus profond connu des océans de la Terre, le Challenger Deep."
+        },
+        {
+            "question": "Toute matière est composée d'atomes.",
+            "isTrue": true,
+            "explanation": "Selon la théorie atomique, toute matière ordinaire est composée d'atomes, qui sont les blocs de construction fondamentaux des éléments chimiques."
+        },
+        {
+            "question": "Le corps humain produit de la vitamine D lorsqu'il est exposé au soleil.",
+            "isTrue": true,
+            "explanation": "Lorsqu'elle est exposée aux rayons ultraviolets B (UVB) du soleil, une forme de cholestérol présente dans la peau est convertie en vitamine D."
+        },
+        {
+            "question": "L'électricité statique est un flux d'électrons.",
+            "isTrue": false,
+            "explanation": "L'électricité statique est un déséquilibre de charges électriques à l'intérieur ou à la surface d'un matériau. Un flux d'électrons est appelé courant électrique."
+        },
+        {
+            "question": "La durée de vie d'un globule rouge est d'environ 120 jours.",
+            "isTrue": true,
+            "explanation": "Les globules rouges (érythrocytes) ont une durée de vie relativement courte d'environ 100 à 120 jours avant d'être retirés de la circulation et remplacés."
+        },
+        {
+            "question": "Un trou noir est une région de l'espace-temps où la gravité est si forte que rien, pas même la lumière, ne peut s'échapper.",
+            "isTrue": true,
+            "explanation": "C'est la caractéristique principale d'un trou noir, une conséquence de l'immense force gravitationnelle causée par la matière comprimée dans un espace minuscule."
+        },
+        {
+            "question": "Le processus de diffusion implique le déplacement des particules d'une zone de concentration plus élevée vers une concentration plus faible.",
+            "isTrue": true,
+            "explanation": "La diffusion est le mouvement net des particules d'une région de concentration plus élevée vers une région de concentration plus faible, entraîné par le mouvement aléatoire des particules."
+        }
+    ]
+}
